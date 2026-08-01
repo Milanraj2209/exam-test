@@ -6,12 +6,14 @@ import { Card, CardContent, CardFooter, CardHeader, CardTitle } from "@/componen
 import { Clock, ChevronLeft, ChevronRight, Flag, CheckCircle2, AlertCircle } from "lucide-react";
 import { Progress } from "@/components/ui/progress";
 import { useRouter, useParams } from "next/navigation";
+import { useAuth } from "@/context/AuthContext";
 
 // Removed hardcoded mock questions
 
 export default function DailyTestEnvironment() {
   const router = useRouter();
   const params = useParams();
+  const { user, loading: authLoading } = useAuth();
   const subjectId = decodeURIComponent(params.subject as string);
 
   const [currentQIndex, setCurrentQIndex] = useState(0);
@@ -22,6 +24,13 @@ export default function DailyTestEnvironment() {
 
   const [questions, setQuestions] = useState<any[]>([]);
   const [loading, setLoading] = useState(true);
+
+  // Redirect if not logged in
+  useEffect(() => {
+    if (!authLoading && !user) {
+      router.push("/login");
+    }
+  }, [user, authLoading, router]);
 
   // Anti-Cheating State
   const [warnings, setWarnings] = useState(0);
@@ -102,7 +111,7 @@ export default function DailyTestEnvironment() {
     return () => clearInterval(timer);
   }, [subjectId]);
 
-  if (loading) {
+  if (loading || authLoading) {
     return <div className="flex items-center justify-center min-h-screen text-2xl text-primary font-bold">Loading Test Environment...</div>;
   }
 
