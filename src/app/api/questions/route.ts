@@ -30,7 +30,7 @@ export async function GET(request: Request) {
       try {
         let query: any = db.collection('Questions');
 
-        if (subject) query = query.where('subject', '==', subject);
+        if (subject && subject.toLowerCase() !== 'all') query = query.where('subject', '==', subject);
         if (topic) query = query.where('topic', '==', topic);
         if (difficulty) query = query.where('difficulty', '==', difficulty);
 
@@ -51,7 +51,7 @@ export async function GET(request: Request) {
     const mode = searchParams.get('mode');
 
     if (mode === 'daily') {
-      if (subject) {
+      if (subject && subject.toLowerCase() !== 'all') {
         questions = questions.filter((q: any) => q.subject === subject);
       }
       
@@ -75,7 +75,7 @@ export async function GET(request: Request) {
     } else {
       if (!db || questions.length === 0) {
         // Apply manual filtering to local questions if firebase failed or was not initialized
-        if (subject) questions = questions.filter((q: any) => q.subject === subject);
+        if (subject && subject.toLowerCase() !== 'all') questions = questions.filter((q: any) => q.subject === subject);
         if (topic) questions = questions.filter((q: any) => q.topic === topic);
         if (difficulty) questions = questions.filter((q: any) => q.difficulty === difficulty);
       }

@@ -1,11 +1,35 @@
 "use client";
 
+import { useEffect, useState } from "react";
 import { Button } from "@/components/ui/button";
 import { motion } from "framer-motion";
-import { ArrowRight, BrainCircuit, CheckCircle2, Target, Trophy } from "lucide-react";
+import { ArrowRight, BrainCircuit, CheckCircle2, Target, Trophy, Loader2 } from "lucide-react";
 import Link from "next/link";
+import { useRouter } from "next/navigation";
 
 export default function Home() {
+  const router = useRouter();
+  const [subjects, setSubjects] = useState<string[]>([]);
+  const [loading, setLoading] = useState(true);
+
+  useEffect(() => {
+    const fetchSubjects = async () => {
+      try {
+        const res = await fetch('/api/questions?limit=1000');
+        const data = await res.json();
+        if (data.success && data.data) {
+          const uniqueSubjects = Array.from(new Set(data.data.map((q: any) => q.subject || "General")));
+          setSubjects(uniqueSubjects as string[]);
+        }
+      } catch (err) {
+        console.error("Failed to fetch subjects", err);
+      } finally {
+        setLoading(false);
+      }
+    };
+    fetchSubjects();
+  }, []);
+
   return (
     <div className="flex flex-col min-h-screen">
       {/* Hero Section */}
@@ -24,10 +48,10 @@ export default function Home() {
               Practice thousands of CTET questions organized exactly according to the syllabus. Get AI-powered explanations, mock tests, and analytics.
             </p>
             <div className="flex flex-col sm:flex-row justify-center items-center gap-4">
-              <Button size="lg" className="w-full sm:w-auto text-lg px-8 rounded-full shadow-lg hover:shadow-primary/25 transition-all">
+              <Button size="lg" className="w-full sm:w-auto text-lg px-8 rounded-full shadow-lg hover:shadow-primary/25 transition-all" onClick={() => router.push('/practice')}>
                 Start Practicing <ArrowRight className="ml-2 h-5 w-5" />
               </Button>
-              <Button size="lg" variant="outline" className="w-full sm:w-auto text-lg px-8 rounded-full">
+              <Button size="lg" variant="outline" className="w-full sm:w-auto text-lg px-8 rounded-full" onClick={() => router.push('/practice')}>
                 Explore Topics
               </Button>
             </div>
@@ -85,15 +109,24 @@ export default function Home() {
       {/* Subjects Section */}
       <section className="py-24">
         <div className="container mx-auto px-4">
-          <h2 className="text-3xl font-bold mb-10 text-center">Comprehensive Coverage</h2>
-          <div className="grid grid-cols-2 md:grid-cols-4 gap-4 max-w-4xl mx-auto">
-            {["Child Development", "Mathematics", "Science", "Social Studies", "Language I", "Language II", "EVS", "Pedagogy"].map((subject, i) => (
-              <div key={i} className="flex items-center space-x-2 p-4 rounded-xl border bg-card hover:border-primary transition-colors cursor-pointer">
-                <CheckCircle2 className="h-5 w-5 text-primary flex-shrink-0" />
-                <span className="font-medium text-sm md:text-base">{subject}</span>
-              </div>
-            ))}
-          </div>
+          <h2 className="text-3xl font-bold mb-10 text-center">Available Subjects</h2>
+          
+          {loading ? (
+            <div className="flex justify-center items-center p-8">
+              <Loader2 className="h-8 w-8 animate-spin text-primary" />
+            </div>
+          ) : subjects.length === 0 ? (
+            <div className="text-center text-muted-foreground">No subjects found. Add questions from the Admin Portal!</div>
+          ) : (
+            <div className="grid grid-cols-2 md:grid-cols-4 gap-4 max-w-4xl mx-auto">
+              {subjects.map((subject, i) => (
+                <div key={i} className="flex items-center space-x-2 p-4 rounded-xl border bg-card hover:border-primary transition-colors cursor-pointer" onClick={() => router.push('/practice')}>
+                  <CheckCircle2 className="h-5 w-5 text-primary flex-shrink-0" />
+                  <span className="font-medium text-sm md:text-base">{subject}</span>
+                </div>
+              ))}
+            </div>
+          )}
         </div>
       </section>
     </div>
