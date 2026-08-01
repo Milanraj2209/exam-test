@@ -1,5 +1,5 @@
 "use client";
-
+import { useState, useEffect } from "react";
 import { Card, CardContent, CardHeader, CardTitle, CardDescription } from "@/components/ui/card";
 import { Users, BookOpen, Database, Activity, PlusCircle, Settings, UploadCloud } from "lucide-react";
 import { Button } from "@/components/ui/button";
@@ -9,12 +9,43 @@ import { useRouter } from "next/navigation";
 
 export default function AdminDashboard() {
   const router = useRouter();
-  const stats = [
-    { title: "Total Users", value: "8,249", icon: Users, color: "text-blue-500", trend: "+12%" },
-    { title: "Total Questions", value: "14,025", icon: Database, color: "text-green-500", trend: "+342" },
-    { title: "Active Mock Tests", value: "45", icon: Activity, color: "text-orange-500", trend: "+2" },
-    { title: "Subjects Covered", value: "7", icon: BookOpen, color: "text-purple-500", trend: "0" },
-  ];
+  const [stats, setStats] = useState([
+    { title: "Total Users", value: "1", icon: Users, color: "text-blue-500", trend: "Live" },
+    { title: "Total Questions", value: "...", icon: Database, color: "text-green-500", trend: "Live" },
+    { title: "Active Mock Tests", value: "...", icon: Activity, color: "text-orange-500", trend: "Live" },
+    { title: "Subjects Covered", value: "...", icon: BookOpen, color: "text-purple-500", trend: "Live" },
+  ]);
+
+  useEffect(() => {
+    const fetchStats = async () => {
+      try {
+        const res = await fetch('/api/questions?limit=10000');
+        const data = await res.json();
+        if (data.success && data.data) {
+          const questions = data.data;
+          
+          const uniqueSubjects = new Set<string>();
+          const uniqueYears = new Set<string>();
+          
+          questions.forEach((q: any) => {
+            if (q.subject) uniqueSubjects.add(q.subject);
+            if (q.year_and_paper) uniqueYears.add(q.year_and_paper);
+          });
+          
+          setStats([
+            { title: "Total Users", value: "1", icon: Users, color: "text-blue-500", trend: "Live" },
+            { title: "Total Questions", value: questions.length.toString(), icon: Database, color: "text-green-500", trend: "Live" },
+            { title: "Active Past Papers", value: uniqueYears.size.toString(), icon: Activity, color: "text-orange-500", trend: "Live" },
+            { title: "Subjects Covered", value: uniqueSubjects.size.toString(), icon: BookOpen, color: "text-purple-500", trend: "Live" },
+          ]);
+        }
+      } catch (err) {
+        console.error("Failed to fetch admin stats", err);
+      }
+    };
+    
+    fetchStats();
+  }, []);
 
   return (
     <div className="container mx-auto p-4 md:p-8 space-y-8 min-h-screen bg-muted/20">
