@@ -24,4 +24,7 @@ if (typeof window !== "undefined") {
   });
 }
 
+import { getAuth } from "firebase/auth";
+
+export const auth = getAuth(app);
 export { app, analytics };

@@ -6,9 +6,12 @@ import { Moon, Sun, BookOpen } from "lucide-react";
 import { useTheme } from "next-themes";
 import { useEffect, useState } from "react";
 
+import { useAuth } from "@/context/AuthContext";
+
 export function Navbar() {
   const { theme, setTheme } = useTheme();
   const [mounted, setMounted] = useState(false);
+  const { user, loading, logout } = useAuth();
 
   useEffect(() => {
     setMounted(true);
@@ -51,16 +54,31 @@ export function Navbar() {
                 <Moon className="h-5 w-5" />
               )}
             </Button>
-            <Link href="/login" tabIndex={-1}>
-              <Button variant="outline" className="hidden sm:inline-flex">
-                Log In
-              </Button>
-            </Link>
-            <Link href="/register" tabIndex={-1}>
-              <Button>
-                Sign Up
-              </Button>
-            </Link>
+            {!loading && user ? (
+              <>
+                <span className="text-sm font-medium mr-2 hidden sm:inline-block">
+                  {user.displayName || user.email}
+                </span>
+                <Button variant="outline" onClick={logout}>
+                  Log Out
+                </Button>
+              </>
+            ) : !loading && !user ? (
+              <>
+                <Link href="/login" tabIndex={-1}>
+                  <Button variant="outline" className="hidden sm:inline-flex">
+                    Log In
+                  </Button>
+                </Link>
+                <Link href="/register" tabIndex={-1}>
+                  <Button>
+                    Sign Up
+                  </Button>
+                </Link>
+              </>
+            ) : (
+              <div className="w-20 h-9 bg-muted animate-pulse rounded-md" />
+            )}
           </nav>
         </div>
       </div>
