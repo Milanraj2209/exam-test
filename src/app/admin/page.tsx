@@ -89,23 +89,34 @@ export default function AdminDashboard() {
             <CardTitle>Quick Actions</CardTitle>
             <CardDescription>Frequently used administrative tools.</CardDescription>
           </CardHeader>
-          <CardContent className="grid gap-4 sm:grid-cols-2">
+          <CardContent className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
             <div onClick={() => router.push('/admin/import')} tabIndex={-1} className="p-4 border rounded-xl flex items-start space-x-4 hover:border-primary transition-colors cursor-pointer group">
               <div className="bg-primary/10 p-3 rounded-lg text-primary group-hover:bg-primary group-hover:text-white transition-colors">
                 <UploadCloud className="h-6 w-6" />
               </div>
               <div>
                 <h4 className="font-semibold">Bulk Import (AI)</h4>
-                <p className="text-sm text-muted-foreground">Import questions directly from a CBSE PDF link using Gemini AI.</p>
+                <p className="text-sm text-muted-foreground">Import questions directly from a CBSE PDF.</p>
               </div>
             </div>
+            
+            <div onClick={() => router.push('/admin/results')} tabIndex={-1} className="p-4 border rounded-xl flex items-start space-x-4 hover:border-primary transition-colors cursor-pointer group">
+              <div className="bg-primary/10 p-3 rounded-lg text-primary group-hover:bg-primary group-hover:text-white transition-colors">
+                <Activity className="h-6 w-6" />
+              </div>
+              <div>
+                <h4 className="font-semibold">User Results</h4>
+                <p className="text-sm text-muted-foreground">View test scores and activity of all users.</p>
+              </div>
+            </div>
+
             <div className="p-4 border rounded-xl flex items-start space-x-4 hover:border-primary transition-colors cursor-pointer group">
               <div className="bg-primary/10 p-3 rounded-lg text-primary group-hover:bg-primary group-hover:text-white transition-colors">
                 <Database className="h-6 w-6" />
               </div>
               <div>
-                <h4 className="font-semibold">Manage Question Bank</h4>
-                <p className="text-sm text-muted-foreground">Edit, delete, or review reported questions.</p>
+                <h4 className="font-semibold">Manage Bank</h4>
+                <p className="text-sm text-muted-foreground">Edit or delete questions.</p>
               </div>
             </div>
           </CardContent>

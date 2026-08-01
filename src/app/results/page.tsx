@@ -7,11 +7,15 @@ import { Progress } from "@/components/ui/progress";
 import { Trophy, Clock, Target, CheckCircle2, XCircle, MinusCircle, ArrowRight } from "lucide-react";
 import Link from "next/link";
 import { motion } from "framer-motion";
+import { useAuth } from "@/context/AuthContext";
 
 export default function ResultsPage() {
   const [result, setResult] = useState<any>(null);
+  const { user, loading } = useAuth();
 
   useEffect(() => {
+    if (loading) return; // Wait for auth state
+
     const dataString = sessionStorage.getItem("testSessionData");
     if (dataString) {
       try {
@@ -50,12 +54,10 @@ export default function ResultsPage() {
         const s = timeSpent % 60;
         const timeTaken = `${m}m ${s}s`;
 
-        // Save to test history
+        // Save to test history API if user is logged in
         const isSaved = sessionStorage.getItem("testSaved");
         if (!isSaved) {
-          const historyString = localStorage.getItem("testHistory");
-          const history = historyString ? JSON.parse(historyString) : [];
-          history.push({
+          const newResult = {
             id: Date.now().toString(),
             date: new Date().toISOString(),
             score: correct,
@@ -63,9 +65,23 @@ export default function ResultsPage() {
             accuracy,
             timeSpent,
             subjectStats,
-          });
+          };
+
+          // Save locally as backup for Analytics dashboard
+          const historyString = localStorage.getItem("testHistory");
+          const history = historyString ? JSON.parse(historyString) : [];
+          history.push(newResult);
           localStorage.setItem("testHistory", JSON.stringify(history));
           sessionStorage.setItem("testSaved", "true");
+
+          // Save to Firebase via API if logged in
+          if (user && user.email) {
+            fetch('/api/results', {
+              method: 'POST',
+              headers: { 'Content-Type': 'application/json' },
+              body: JSON.stringify({ ...newResult, userEmail: user.email })
+            }).catch(err => console.error("Failed to save result to backend:", err));
+          }
         }
 
         const colors = ["bg-success", "bg-accent", "bg-primary", "bg-destructive"];
@@ -91,7 +107,7 @@ export default function ResultsPage() {
         console.error("Failed to parse session data", err);
       }
     }
-  }, []);
+  }, [user, loading]);
 
   if (!result) {
     return (
