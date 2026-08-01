@@ -1,0 +1,4126 @@
+[
+  {
+    "id": "q1",
+    "subject": "Child Development",
+    "topic": "Piaget Theory",
+    "questionText": "According to Jean Piaget, which stage involves the development of object permanence?",
+    "options": {
+      "A": "Sensorimotor Stage",
+      "B": "Preoperational Stage",
+      "C": "Concrete Operational Stage",
+      "D": "Formal Operational Stage"
+    },
+    "correctAnswer": "A",
+    "explanation": "Object permanence is the understanding that objects continue to exist even when they cannot be seen, heard, or otherwise sensed. According to Piaget, this develops during the Sensorimotor stage (birth to 2 years).",
+    "difficulty": "Easy",
+    "year": "2023",
+    "paper": "Paper I"
+  },
+  {
+    "id": "q2",
+    "subject": "Child Development",
+    "topic": "Vygotsky",
+    "questionText": "Vygotsky's theory of cognitive development places strong emphasis on:",
+    "options": {
+      "A": "Genetic inheritance",
+      "B": "Social and cultural influences",
+      "C": "Independent discovery learning",
+      "D": "Physical maturation"
+    },
+    "correctAnswer": "B",
+    "explanation": "Lev Vygotsky's Sociocultural Theory emphasizes that cognitive development is largely a result of social interactions and cultural context, distinguishing it from Piaget's theory of independent discovery.",
+    "difficulty": "Medium",
+    "year": "2022",
+    "paper": "Paper I"
+  },
+  {
+    "id": "q3",
+    "subject": "Mathematics",
+    "topic": "Number System",
+    "questionText": "Which of the following is a prime number?",
+    "options": {
+      "A": "87",
+      "B": "91",
+      "C": "97",
+      "D": "111"
+    },
+    "correctAnswer": "C",
+    "explanation": "97 has no divisors other than 1 and itself. 87 is divisible by 3 (8+7=15). 91 is divisible by 7 (7x13). 111 is divisible by 3 (1+1+1=3).",
+    "difficulty": "Easy",
+    "year": "2024",
+    "paper": "Paper I"
+  },
+  {
+    "id": "q4",
+    "subject": "Science",
+    "topic": "Physics",
+    "questionText": "The SI unit of force is:",
+    "options": {
+      "A": "Joule",
+      "B": "Newton",
+      "C": "Pascal",
+      "D": "Watt"
+    },
+    "correctAnswer": "B",
+    "explanation": "Newton (N) is the SI unit of force. Joule is for energy, Pascal is for pressure, and Watt is for power.",
+    "difficulty": "Easy",
+    "year": "2023",
+    "paper": "Paper II"
+  },
+  {
+    "id": "q5",
+    "subject": "Language I",
+    "topic": "Pedagogy",
+    "questionText": "A teacher uses realia to teach vocabulary. 'Realia' refers to:",
+    "options": {
+      "A": "Real objects and materials from everyday life",
+      "B": "Realistic stories",
+      "C": "Virtual reality tools",
+      "D": "Computer generated imagery"
+    },
+    "correctAnswer": "A",
+    "explanation": "In language teaching, 'realia' means objects from real life used in classroom instruction by educators to improve students' understanding of other cultures and real-life situations.",
+    "difficulty": "Medium",
+    "year": "2021",
+    "paper": "Paper I"
+  },
+  {
+    "id": "q6",
+    "subject": "Child Development",
+    "topic": "Moral Reasoning",
+    "questionText": "Read the following description and identify the stage of moral reasoning of Kohlberg. Description : Right action is defined by self-chosen ethical principles of conscience that are valid for all humanity, regardless of law and social agreement.",
+    "options": {
+      "A": "The instrumental purpose orientation",
+      "B": "The social - contract orientation",
+      "C": "The social - order maintaining orientation",
+      "D": "The universal ethical principle orientation"
+    },
+    "correctAnswer": "D",
+    "explanation": "According to Kohlberg's stages of moral development, the Universal Ethical Principle orientation is the highest stage (Stage 6) where individuals follow self-chosen ethical principles that are universally valid, such as justice, equality, and human rights.",
+    "difficulty": "Hard",
+    "year": "2022",
+    "paper": "Paper II"
+  },
+  {
+    "id": "q7",
+    "subject": "Child Development",
+    "topic": "Cognitive Development",
+    "questionText": "One of the major accomplishments of concrete operational stage is :",
+    "options": {
+      "A": "Animistic thinking",
+      "B": "Ability to conserve",
+      "C": "Hypothetic - deductive reasoning",
+      "D": "Secondary circular reactions"
+    },
+    "correctAnswer": "B",
+    "explanation": "According to Jean Piaget, the concrete operational stage (ages 7 to 11) is characterized by the development of logical thought. One of the major milestones is the ability to 'conserve' - understanding that changing the form of a substance or object does not change its amount or volume.",
+    "difficulty": "Medium",
+    "year": "2022",
+    "paper": "Paper II"
+  },
+  {
+    "subject": "Child Development and Pedagogy",
+    "question": "During the period of childhood, development –",
+    "options": {
+      "A": "is slow and cannot be measured.",
+      "B": "is multi-layered and complex.",
+      "C": "consists only of quantitative changes.",
+      "D": "is disorderly and disjointed."
+    },
+    "correct_answer": "B",
+    "explanation": "Childhood development is a multi-dimensional process encompassing physical, cognitive, social, emotional, and language domains that are interconnected, complex, and layered.",
+    "difficulty": "Easy",
+    "year_and_paper": "CTET Paper II",
+    "id": "q8"
+  },
+  {
+    "subject": "Child Development and Pedagogy",
+    "question": "‘Zone of proximal development’ is",
+    "options": {
+      "A": "the area between a child’s current level of independent performance and the level of performance that the child could achieve with the help of adults and more skilled peers.",
+      "B": "a range of tasks that the child should be able to do as per her age but cannot.",
+      "C": "the process where two individuals who begin with different understandings arrive at a shared understanding.",
+      "D": "the process in which children learn to perform tasks as set by the elder members in a society."
+    },
+    "correct_answer": "A",
+    "explanation": "Lev Vygotsky defined the Zone of Proximal Development (ZPD) as the distance between the actual developmental level (what a child can do independently) and the level of potential development (what the child can achieve with guidance/scaffolding from More Knowledgeable Others).",
+    "difficulty": "Easy",
+    "year_and_paper": "CTET Paper II",
+    "id": "q9"
+  },
+  {
+    "subject": "Child Development and Pedagogy",
+    "question": "According to Jean Piaget, children in formal operational stage",
+    "options": {
+      "A": "are capable of hypothetico-deductive reasoning and propositional thought.",
+      "B": "are bound by centration and irreversibility of thought.",
+      "C": "cannot conserve, classify and seriate.",
+      "D": "begin to engage in make-believe and symbolic play."
+    },
+    "correct_answer": "A",
+    "explanation": "In Piaget's fourth stage of cognitive development (Formal Operational Stage, starting around age 11), individuals gain the ability to think abstractly, reason logically, use hypothetico-deductive reasoning, and evaluate propositional logic.",
+    "difficulty": "Easy",
+    "year_and_paper": "CTET Paper II",
+    "id": "q10"
+  },
+  {
+    "subject": "Child Development and Pedagogy",
+    "question": "At which stage of Lawrence Kohlberg’s theory of moral development do individuals believe that actively maintaining the current social system ensures positive human relationships and societal order ?",
+    "options": {
+      "A": "The punishment and obedience orientation",
+      "B": "The social-order maintaining orientation",
+      "C": "The instrumental purpose orientation",
+      "D": "The universal ethical principle orientation"
+    },
+    "correct_answer": "B",
+    "explanation": "In Stage 4 (Social-Order Maintaining Orientation / Law and Order Orientation) of Kohlberg's theory, individuals judge morality based on social duties, laws, and maintaining societal order.",
+    "difficulty": "Medium",
+    "year_and_paper": "CTET Paper II",
+    "id": "q11"
+  },
+  {
+    "subject": "Child Development and Pedagogy",
+    "question": "Which of the following is a correctly matched pair of type of intelligence and end-state performance possibilities as per Howard Gardner’s theory of multiple intelligences ?",
+    "options": {
+      "A": "Spatial – Therapist",
+      "B": "Intra-personal – Salesperson",
+      "C": "Linguistic – Sculptor",
+      "D": "Bodily-kinesthetic – Athlete"
+    },
+    "correct_answer": "D",
+    "explanation": "Bodily-kinesthetic intelligence involves physical control, coordination, and mastery over bodily movements, which aligns directly with the abilities required of an athlete.",
+    "difficulty": "Easy",
+    "year_and_paper": "CTET Paper II",
+    "id": "q12"
+  },
+  {
+    "subject": "Child Development and Pedagogy",
+    "question": "According to Lev Vygotsky –",
+    "options": {
+      "A": "language plays an important role in cognitive development of children.",
+      "B": "children learn language through a ‘language acquisition device’.",
+      "C": "children’s cognitive development occurs in stages.",
+      "D": "maturation of schemas leads to cognitive development in children."
+    },
+    "correct_answer": "A",
+    "explanation": "Lev Vygotsky emphasized that language serves as the primary psychological tool for thought and plays a fundamental role in guiding cognitive development.",
+    "difficulty": "Easy",
+    "year_and_paper": "CTET Paper II",
+    "id": "q13"
+  },
+  {
+    "subject": "Child Development and Pedagogy",
+    "question": "In a progressive classroom, assessment of learners during the process of teaching-learning –",
+    "options": {
+      "A": "is not at all helpful in children’s learning.",
+      "B": "creates a hindrance in the process of children’s learning.",
+      "C": "is helpful in identifying ‘high’, ‘low’ and ‘non’ achievers for the purposes of giving feedback to the parents.",
+      "D": "is very important since it gives insights into children’s understanding and helps the teacher to reflects on her pedagogy."
+    },
+    "correct_answer": "D",
+    "explanation": "In progressive education, assessment is formative and continuous. It helps teachers understand student progress, address learning gaps, and adapt pedagogical practices accordingly.",
+    "difficulty": "Easy",
+    "year_and_paper": "CTET Paper II",
+    "id": "q14"
+  },
+  {
+    "subject": "Child Development and Pedagogy",
+    "question": "An effective classroom strategy to reduce gender stereotyping and broadening developmental possibilities for all sexes is",
+    "options": {
+      "A": "to ignore and dismiss biological differences among the sexes.",
+      "B": "to reinforce gender roles as portrayed in the society.",
+      "C": "forming same-sex ability groupings.",
+      "D": "forming mixed-sex activity groups and promote discussion."
+    },
+    "correct_answer": "D",
+    "explanation": "Forming mixed-sex activity groups fosters peer collaboration, breaks down gender barriers, and promotes discussions that help reduce gender stereotypes.",
+    "difficulty": "Easy",
+    "year_and_paper": "CTET Paper II",
+    "id": "q15"
+  },
+  {
+    "subject": "Child Development and Pedagogy",
+    "question": "Multilingualism in a classroom needs to be understood as _________ by the teachers.",
+    "options": {
+      "A": "an asset and resource",
+      "B": "a hindrance",
+      "C": "a problem",
+      "D": "a systemic issue"
+    },
+    "correct_answer": "A",
+    "explanation": "As per NCF and modern educational guidelines, multilingualism is treated as a rich resource and cognitive asset that aids learning and enhances inclusive classroom culture.",
+    "difficulty": "Easy",
+    "year_and_paper": "CTET Paper II",
+    "id": "q16"
+  },
+  {
+    "subject": "Child Development and Pedagogy",
+    "question": "A child-centered classroom is one in which",
+    "options": {
+      "A": "the teacher uses the textbook as the only source of knowledge.",
+      "B": "the teacher segregates the children based on their abilities.",
+      "C": "the teacher uses rewards and punishments to direct children’s behaviour.",
+      "D": "the teacher is flexible and caters to needs of individual children."
+    },
+    "correct_answer": "D",
+    "explanation": "Child-centered classrooms prioritize the active participation, individual needs, learning styles, and flexible pacing of every student.",
+    "difficulty": "Easy",
+    "year_and_paper": "CTET Paper II",
+    "id": "q17"
+  },
+  {
+    "subject": "Child Development and Pedagogy",
+    "question": "According to which theorist ‘cultural tools’ play an important role in cognitive development of children ?",
+    "options": {
+      "A": "Lev Vygotsky",
+      "B": "Jean Piaget",
+      "C": "Albert Bandura",
+      "D": "B.F. Skinner"
+    },
+    "correct_answer": "A",
+    "explanation": "Lev Vygotsky proposed that social interaction and cultural tools (language, symbols, maps) mediate and shape cognitive development.",
+    "difficulty": "Easy",
+    "year_and_paper": "CTET Paper II",
+    "id": "q18"
+  },
+  {
+    "subject": "Child Development and Pedagogy",
+    "question": "Which of the following is NOT a suitable learning material for students who are partially sighted ?",
+    "options": {
+      "A": "Large-print books",
+      "B": "Three dimensional maps and charts",
+      "C": "Talking books, felt bulletin boards",
+      "D": "Small-print worksheets"
+    },
+    "correct_answer": "D",
+    "explanation": "Small-print worksheets cause eye strain and are difficult or impossible to read for partially sighted students, making them unsuitable teaching-learning materials.",
+    "difficulty": "Easy",
+    "year_and_paper": "CTET Paper II",
+    "id": "q19"
+  },
+  {
+    "subject": "Child Development and Pedagogy",
+    "question": "The underlying belief behind ‘inclusive education’ is",
+    "options": {
+      "A": "segregation of children on the basis of their abilities and provisioning of vocational training accordingly.",
+      "B": "diagnostic labelling of children based on their handicaps for identification of their limitations.",
+      "C": "provisioning of special education institutions for children with different handicaps.",
+      "D": "the philosophy that all children have a right to get equal education in a regular school."
+    },
+    "correct_answer": "D",
+    "explanation": "Inclusive education is built on the philosophy that every child has a fundamental right to equitable educational opportunities within the mainstream regular school system.",
+    "difficulty": "Easy",
+    "year_and_paper": "CTET Paper II",
+    "id": "q20"
+  },
+  {
+    "subject": "Child Development and Pedagogy",
+    "question": "Needs of gifted and creative children can be addressed by",
+    "options": {
+      "A": "giving challenging tasks and activities to prevent boredom.",
+      "B": "giving questions that require convergent thinking.",
+      "C": "providing specific instructions to solve problems.",
+      "D": "administrating memory based tests."
+    },
+    "correct_answer": "A",
+    "explanation": "Gifted learners process information quickly and require higher-order, open-ended, and challenging tasks to keep them engaged and prevent boredom.",
+    "difficulty": "Easy",
+    "year_and_paper": "CTET Paper II",
+    "id": "q21"
+  },
+  {
+    "subject": "Child Development and Pedagogy",
+    "question": "Children with ‘dyslexia’ can be identified by",
+    "options": {
+      "A": "finding out their social and cultural context.",
+      "B": "a thorough physical health check-up.",
+      "C": "analyzing their reading and writing skills.",
+      "D": "assessing their ability to solve complex higher-order problems."
+    },
+    "correct_answer": "C",
+    "explanation": "Dyslexia is a specific learning disability related to language processing, characterized by difficulties in accurate and fluent reading, spelling, and decoding text.",
+    "difficulty": "Easy",
+    "year_and_paper": "CTET Paper II",
+    "id": "q22"
+  },
+  {
+    "subject": "Child Development and Pedagogy",
+    "question": "1. During the period of childhood, development –",
+    "options": {
+      "A": "is slow and cannot be measured.",
+      "B": "is multi-layered and complex.",
+      "C": "consists only of quantitative changes.",
+      "D": "is disorderly and disjointed."
+    },
+    "answer": "B",
+    "explanation": "Development during childhood is a multi-dimensional, complex, and multi-layered process that encompasses physical, cognitive, social, and emotional changes.",
+    "difficulty": "Easy",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q23"
+  },
+  {
+    "subject": "Child Development and Pedagogy",
+    "question": "2. ‘Zone of proximal development’ is",
+    "options": {
+      "A": "the area between a child’s current level of independent performance and the level of performance that the child could achieve with the help of adults and more skilled peers.",
+      "B": "a range of tasks that the child should be able to do as per her age but cannot.",
+      "C": "the process where two individuals who begin with different understandings arrive at a shared understanding.",
+      "D": "the process in which children learn to perform tasks as set by the elder members in a society."
+    },
+    "answer": "A",
+    "explanation": "Lev Vygotsky defined the Zone of Proximal Development (ZPD) as the difference between what a learner can do independently and what they can achieve with guidance and encouragement from a More Knowledgeable Other (MKO).",
+    "difficulty": "Medium",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q24"
+  },
+  {
+    "subject": "Child Development and Pedagogy",
+    "question": "3. According to Jean Piaget, children in formal operational stage",
+    "options": {
+      "A": "are capable of hypothetico-deductive reasoning and propositional thought.",
+      "B": "are bound by centration and irreversibility of thought.",
+      "C": "cannot conserve, classify and seriate.",
+      "D": "begin to engage in make-believe and symbolic play."
+    },
+    "answer": "A",
+    "explanation": "The formal operational stage (typically ages 11+ years) is Piaget's final cognitive stage, marked by abstract logic, scientific reasoning, propositional thought, and hypothetico-deductive reasoning.",
+    "difficulty": "Medium",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q25"
+  },
+  {
+    "subject": "Child Development and Pedagogy",
+    "question": "4. At which stage of Lawrence Kohlberg’s theory of moral development do individuals believe that actively maintaining the current social system ensures positive human relationships and societal order?",
+    "options": {
+      "A": "The punishment and obedience orientation",
+      "B": "The social-order maintaining orientation",
+      "C": "The instrumental purpose orientation",
+      "D": "The universal ethical principle orientation"
+    },
+    "answer": "B",
+    "explanation": "In Stage 4 (Social-order maintaining orientation) of Kohlberg's theory, moral judgments are driven by obeying laws, respecting authority, and performing one's social duties to keep society running smoothly.",
+    "difficulty": "Medium",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q26"
+  },
+  {
+    "subject": "Child Development and Pedagogy",
+    "question": "5. Which of the following is a correctly matched pair of type of intelligence and end-state performance possibilities as per Howard Gardner’s theory of multiple intelligences?",
+    "options": {
+      "A": "Spatial – Therapist",
+      "B": "Intra-personal – Salesperson",
+      "C": "Linguistic – Sculptor",
+      "D": "Bodily-kinesthetic – Athlete"
+    },
+    "answer": "D",
+    "explanation": "Bodily-kinesthetic intelligence involves physical motor control, body coordination, and agility, which directly matches the potential end-state performance of an athlete.",
+    "difficulty": "Easy",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q27"
+  },
+  {
+    "subject": "Child Development and Pedagogy",
+    "question": "6. According to Lev Vygotsky –",
+    "options": {
+      "A": "language plays an important role in cognitive development of children.",
+      "B": "children learn language through a ‘language acquisition device’.",
+      "C": "children’s cognitive development occurs in stages.",
+      "D": "maturation of schemas leads to cognitive development in children."
+    },
+    "answer": "A",
+    "explanation": "Vygotsky emphasized that language serves as the primary psychological tool for thought, self-regulation, and cognitive development.",
+    "difficulty": "Easy",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q28"
+  },
+  {
+    "subject": "Child Development and Pedagogy",
+    "question": "7. In a progressive classroom, assessment of learners during the process of teaching-learning –",
+    "options": {
+      "A": "is not at all helpful in children’s learning.",
+      "B": "creates a hindrance in the process of children’s learning.",
+      "C": "is helpful in identifying ‘high’, ‘low’ and ‘non’ achievers for the purposes of giving feedback to the parents.",
+      "D": "is very important since it gives insights into children’s understanding and helps the teacher to reflect on her pedagogy."
+    },
+    "answer": "D",
+    "explanation": "Formative assessment during instruction provides critical insight into student thinking, enabling teachers to adapt strategies and help students reflect on their learning progress.",
+    "difficulty": "Easy",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q29"
+  },
+  {
+    "subject": "Child Development and Pedagogy",
+    "question": "8. An effective classroom strategy to reduce gender stereotyping and broadening developmental possibilities for all sexes is",
+    "options": {
+      "A": "to ignore and dismiss biological differences among the sexes.",
+      "B": "to reinforce gender roles as portrayed in the society.",
+      "C": "forming same-sex ability groupings.",
+      "D": "forming mixed-sex activity groups and promote discussion."
+    },
+    "answer": "D",
+    "explanation": "Mixed-sex activity groups foster equal collaboration, break down traditional gender barriers, and allow open dialogue to challenge stereotypes.",
+    "difficulty": "Easy",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q30"
+  },
+  {
+    "subject": "Child Development and Pedagogy",
+    "question": "9. Multilingualism in a classroom needs to be understood as _________ by the teachers.",
+    "options": {
+      "A": "an asset and resource",
+      "B": "a hindrance",
+      "C": "a problem",
+      "D": "a systemic issue"
+    },
+    "answer": "A",
+    "explanation": "In progressive and inclusive education, the linguistic background and native languages of students are treated as valuable educational assets and learning resources.",
+    "difficulty": "Easy",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q31"
+  },
+  {
+    "subject": "Child Development and Pedagogy",
+    "question": "10. A child-centered classroom is one in which",
+    "options": {
+      "A": "the teacher uses the textbook as the only source of knowledge.",
+      "B": "the teacher segregates the children based on their abilities.",
+      "C": "the teacher uses rewards and punishments to direct children’s behaviour.",
+      "D": "the teacher is flexible and caters to needs of individual children."
+    },
+    "answer": "D",
+    "explanation": "Child-centered pedagogy emphasizes flexibility, individual differences, active student participation, and tailoring instructional strategies to each learner's needs.",
+    "difficulty": "Easy",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q32"
+  },
+  {
+    "subject": "Child Development and Pedagogy",
+    "question": "11. According to which theorist ‘cultural tools’ play an important role in cognitive development of children?",
+    "options": {
+      "A": "Lev Vygotsky",
+      "B": "Jean Piaget",
+      "C": "Albert Bandura",
+      "D": "B.F. Skinner"
+    },
+    "answer": "A",
+    "explanation": "Lev Vygotsky's socio-cultural theory highlights the significance of cultural tools (such as language, symbols, and counting systems) in shaping cognitive development.",
+    "difficulty": "Easy",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q33"
+  },
+  {
+    "subject": "Child Development and Pedagogy",
+    "question": "12. Which of the following is NOT a suitable learning material for students who are partially sighted?",
+    "options": {
+      "A": "Large-print books",
+      "B": "Three dimensional maps and charts",
+      "C": "Talking books, felt bulletin boards",
+      "D": "Small-print worksheets"
+    },
+    "answer": "D",
+    "explanation": "Small-print worksheets create visual strain and barriers for partially sighted students. Tactile materials, audiobooks, and large-print books are suitable accommodations.",
+    "difficulty": "Easy",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q34"
+  },
+  {
+    "subject": "Child Development and Pedagogy",
+    "question": "13. The underlying belief behind ‘inclusive education’ is",
+    "options": {
+      "A": "segregation of children on the basis of their abilities and provisioning of vocational training accordingly.",
+      "B": "diagnostic labelling of children based on their handicaps for identification of their limitations.",
+      "C": "provisioning of special education institutions for children with different handicaps.",
+      "D": "the philosophy that all children have a right to get equal education in a regular school."
+    },
+    "answer": "D",
+    "explanation": "Inclusive education rests on the core philosophy that all children, regardless of physical, cognitive, social, or linguistic differences, have a fundamental right to equal educational opportunities in regular mainstream classrooms.",
+    "difficulty": "Easy",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q35"
+  },
+  {
+    "subject": "Child Development and Pedagogy",
+    "question": "14. Needs of gifted and creative children can be addressed by",
+    "options": {
+      "A": "giving challenging tasks and activities to prevent boredom.",
+      "B": "giving questions that require convergent thinking.",
+      "C": "providing specific instructions to solve problems.",
+      "D": "administrating memory based tests."
+    },
+    "answer": "A",
+    "explanation": "Gifted and creative children require higher-order cognitive tasks, enriching activities, and complex learning experiences to keep them intellectually stimulated.",
+    "difficulty": "Easy",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q36"
+  },
+  {
+    "subject": "Child Development and Pedagogy",
+    "question": "15. Children with ‘dyslexia’ can be identified by",
+    "options": {
+      "A": "finding out their social and cultural context.",
+      "B": "a thorough physical health check-up.",
+      "C": "analyzing their reading and writing skills.",
+      "D": "assessing their ability to solve complex higher-order problems."
+    },
+    "answer": "C",
+    "explanation": "Dyslexia is a learning disability that primarily affects decoding, reading fluency, spelling, and writing skills.",
+    "difficulty": "Easy",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q37"
+  },
+  {
+    "subject": "Child Development and Pedagogy",
+    "question": "16. Which of the following is NOT an effective strategy to address learners from disadvantaged and deprived backgrounds?",
+    "options": {
+      "A": "Talk to the learners to understand their needs and challenges faced by them.",
+      "B": "Asking the learners to enroll for tuition outside of school so that the teacher does not have to pay much attention to them.",
+      "C": "Motivate the students to set moderately challenging goals and provide appropriate instructional support.",
+      "D": "Form collaborative groups to work on activities and encourage students to support each other."
+    },
+    "answer": "B",
+    "explanation": "Asking disadvantaged learners to seek external tuition abdicates the teacher's professional responsibility and exacerbates educational inequities.",
+    "difficulty": "Easy",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q38"
+  },
+  {
+    "subject": "Child Development and Pedagogy",
+    "question": "17. Physical and emotional health of children _________ their learning.",
+    "options": {
+      "A": "does not have any influence on",
+      "B": "plays an important role in",
+      "C": "is not related to",
+      "D": "has an insignificant role in"
+    },
+    "answer": "B",
+    "explanation": "A child's physical health and emotional state directly influence their readiness, focus, motivation, and overall capacity for learning.",
+    "difficulty": "Easy",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q39"
+  },
+  {
+    "subject": "Child Development and Pedagogy",
+    "question": "18. To promote meaningful learning in the classrooms, a teacher should –\n(i) help students to regulate their own emotions and motivation.\n(ii) categorize and label students according to their performance and make ability-grouping.\n(iii) promote dialogue and discussion among children to build multiple perspectives.\n(iv) ignore diversity in the classroom and follow standard methods of instruction.",
+    "options": {
+      "A": "(i), (iii)",
+      "B": "(ii), (iii)",
+      "C": "(i), (iii), (iv)",
+      "D": "(i), (ii), (iii), (iv)"
+    },
+    "answer": "A",
+    "explanation": "Helping students self-regulate (i) and facilitating discussions to build diverse perspectives (iii) foster meaningful learning. Labelling/segregating (ii) and ignoring classroom diversity (iv) are counterproductive.",
+    "difficulty": "Medium",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q40"
+  },
+  {
+    "subject": "Child Development and Pedagogy",
+    "question": "19. Learning is a _________ and _________ process.",
+    "options": {
+      "A": "complex; active",
+      "B": "simple; linear",
+      "C": "simple; individual",
+      "D": "complex; passive"
+    },
+    "answer": "A",
+    "explanation": "According to constructivist perspectives, learning is an active, multi-dimensional, and complex cognitive and socio-emotional process.",
+    "difficulty": "Easy",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q41"
+  },
+  {
+    "subject": "Child Development and Pedagogy",
+    "question": "20. A teacher should _________ the social, cultural, religious and linguistic diversity in her classroom to facilitate meaningful learning.",
+    "options": {
+      "A": "dismiss",
+      "B": "ignore",
+      "C": "understand",
+      "D": "neglect"
+    },
+    "answer": "C",
+    "explanation": "Understanding student diversity allows teachers to build culturally responsive pedagogy and create meaningful connections between home and school learning.",
+    "difficulty": "Easy",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q42"
+  },
+  {
+    "subject": "Child Development and Pedagogy",
+    "question": "21. It is important to create _________ learning environment in the classroom rather than _________ one.",
+    "options": {
+      "A": "collaborative; competitive",
+      "B": "competitive; collaborative",
+      "C": "fearful; facilitative",
+      "D": "competitive; facilitative"
+    },
+    "answer": "A",
+    "explanation": "A collaborative environment promotes mutual support, social learning, and peer interaction, whereas a hyper-competitive environment can induce anxiety and hinder deep learning.",
+    "difficulty": "Easy",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q43"
+  },
+  {
+    "subject": "Child Development and Pedagogy",
+    "question": "22. Which of the following is an example of effective motivational strategy to encourage students to learn?",
+    "options": {
+      "A": "Providing scaffolding especially when students learn a new skill.",
+      "B": "Emphasis on completion of work rather than learning.",
+      "C": "Giving tasks that are very easy.",
+      "D": "Creating a lot of opportunities for competition."
+    },
+    "answer": "A",
+    "explanation": "Scaffolding provides necessary scaffolding/support to help students master challenging tasks, thereby developing competence and intrinsic motivation.",
+    "difficulty": "Easy",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q44"
+  },
+  {
+    "subject": "Child Development and Pedagogy",
+    "question": "23. Which of the following statements about children’s thinking is NOT correct?",
+    "options": {
+      "A": "Children construct their own theories about various phenomenon around them.",
+      "B": "Children cannot think of concepts on their own and the primary role of teachers is to provide information.",
+      "C": "Children actively think about various phenomenon around them and have an urge to explore.",
+      "D": "Children are born with curiosity to learn about the world around them."
+    },
+    "answer": "B",
+    "explanation": "Children are naturally curious and active constructors of knowledge. Statement B incorrectly treats children as passive vessels who cannot think independently.",
+    "difficulty": "Easy",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q45"
+  },
+  {
+    "subject": "Child Development and Pedagogy",
+    "question": "24. Children’s failure in school",
+    "options": {
+      "A": "suggests that children from deprived backgrounds are not capable of learning.",
+      "B": "indicates that school has not been able to cater to the needs and interests of these children.",
+      "C": "proves that these children have genetic birth defects and hence should be pulled out from school.",
+      "D": "signifies that parents have not been able to support their children to learn."
+    },
+    "answer": "B",
+    "explanation": "When children fail in school, it reflects a failure of the educational system and pedagogical methods to cater to diverse student needs and backgrounds.",
+    "difficulty": "Easy",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q46"
+  },
+  {
+    "subject": "Child Development and Pedagogy",
+    "question": "25. By working in groups, teaching and helping each other, children",
+    "options": {
+      "A": "are able to reflect on their own thought processes and shift to a higher level of cognitive activity.",
+      "B": "can develop misconceptions which interferes with their learning.",
+      "C": "get distracted and hence it is an ineffective pedagogical strategy.",
+      "D": "develop competitive tendencies that hinder learning."
+    },
+    "answer": "A",
+    "explanation": "Group work and peer tutoring enhance metacognitive reflection, communicative competence, and higher-order cognitive processing.",
+    "difficulty": "Easy",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q47"
+  },
+  {
+    "subject": "Child Development and Pedagogy",
+    "question": "26. In a _________ classroom teachers adapt their pedagogy and vary assessment to cater to individual students.",
+    "options": {
+      "A": "teacher-centric",
+      "B": "progressive",
+      "C": "textbook-centric",
+      "D": "behaviouristic"
+    },
+    "answer": "B",
+    "explanation": "Progressive classrooms prioritize student-centered instruction, flexible pedagogy, and differentiated evaluation to meet individual learner needs.",
+    "difficulty": "Easy",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q48"
+  },
+  {
+    "subject": "Child Development and Pedagogy",
+    "question": "27. Which of the following statements about development is correct?",
+    "options": {
+      "A": "There is a lot of cultural diversity in the development of children.",
+      "B": "Children across the world follow the same sequence and exact time of development.",
+      "C": "Development occurs in a neat, orderly set of stages predetermined by genetic factors.",
+      "D": "Development is simple and uni-dimensional."
+    },
+    "answer": "A",
+    "explanation": "Development is mediated by cultural and social contexts, leading to significant diversity in developmental pathways across cultures.",
+    "difficulty": "Easy",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q49"
+  },
+  {
+    "subject": "Child Development and Pedagogy",
+    "question": "28. Which of the following is a major hallmark of the period of middle childhood?",
+    "options": {
+      "A": "Emergence of make-believe play.",
+      "B": "Development of logical thought that is concrete in nature.",
+      "C": "Rapid development of motor skills and overall physical growth.",
+      "D": "Development of scientific reasoning and ability to think abstractly."
+    },
+    "answer": "B",
+    "explanation": "Middle childhood (6–11 years) corresponds to Piaget's concrete operational stage, characterized by logical thinking applied to concrete objects and events.",
+    "difficulty": "Medium",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q50"
+  },
+  {
+    "subject": "Child Development and Pedagogy",
+    "question": "29. School _________ socialization of children.",
+    "options": {
+      "A": "does not play any role in",
+      "B": "plays very little role in",
+      "C": "is a primary agency of",
+      "D": "is a secondary agency of"
+    },
+    "answer": "D",
+    "explanation": "The family is the primary agency of socialization, while formal institutions like schools and media act as secondary agencies.",
+    "difficulty": "Easy",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q51"
+  },
+  {
+    "subject": "Child Development and Pedagogy",
+    "question": "30. Which of the following theorists proposed that children’s thinking is qualitatively different from that of adults?",
+    "options": {
+      "A": "Jean Piaget",
+      "B": "Lev Vygotsky",
+      "C": "Howard Gardner",
+      "D": "Lawrence Kohlberg"
+    },
+    "answer": "A",
+    "explanation": "Jean Piaget established that children are not just less knowledgeable than adults (quantitative difference), but think in fundamentally different ways (qualitative difference).",
+    "difficulty": "Easy",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q52"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "31. If 0.139 + 0.75 + 2.105 – (1.001) × 1.1 = 2 – k, then the value of k is",
+    "options": {
+      "A": "0.8925",
+      "B": "0.982",
+      "C": "0.1071",
+      "D": "0.1075"
+    },
+    "answer": "C",
+    "explanation": "Sum = 0.139 + 0.75 + 2.105 = 2.994. Product = 1.001 × 1.1 = 1.1011. LHS = 2.994 - 1.1011 = 1.8929. Then 1.8929 = 2 - k, so k = 2 - 1.8929 = 0.1071.",
+    "difficulty": "Medium",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q53"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "32. If a = –3/4 and b = 5/6, then which of the following does not lie between a and b?",
+    "options": {
+      "A": "0",
+      "B": "–1/2",
+      "C": "–2/5",
+      "D": "–7/9"
+    },
+    "answer": "D",
+    "explanation": "a = -0.75 and b ≈ 0.833. Checking options: 0 lies inside; -1/2 = -0.5 lies inside; -2/5 = -0.4 lies inside; -7/9 ≈ -0.777, which is less than -0.75, so it lies outside the interval.",
+    "difficulty": "Medium",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q54"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "33. The product of 1.7 × 10^4 and 12.5 × 10^(–6) is expressed in the standard form as k × 10^n. The value of (2k + n) is",
+    "options": {
+      "A": "2.125",
+      "B": "1.125",
+      "C": "2.25",
+      "D": "3.25"
+    },
+    "answer": "D",
+    "explanation": "Product = (1.7 × 12.5) × 10^(4-6) = 21.25 × 10^(-2) = 2.125 × 10^(-1). Here k = 2.125 and n = -1. Therefore, 2k + n = 2(2.125) + (-1) = 4.25 - 1 = 3.25.",
+    "difficulty": "Hard",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q55"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "34. Two numbers are in the ratio 3:5. If 12 is added to both the numbers, then the ratio becomes 5:7. The sum of the given two numbers is",
+    "options": {
+      "A": "32",
+      "B": "40",
+      "C": "48",
+      "D": "56"
+    },
+    "answer": "C",
+    "explanation": "Let numbers be 3x and 5x. (3x + 12)/(5x + 12) = 5/7 ⇒ 21x + 84 = 25x + 60 ⇒ 4x = 24 ⇒ x = 6. Numbers are 18 and 30. Sum = 18 + 30 = 48.",
+    "difficulty": "Medium",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q56"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "35. The marked price of an article is ₹ 840. A shopkeeper gives a discount of 15% on the marked price and still makes a profit of 19%. What is the cost price of the article?",
+    "options": {
+      "A": "₹ 540",
+      "B": "₹ 580",
+      "C": "₹ 600",
+      "D": "₹ 640"
+    },
+    "answer": "C",
+    "explanation": "Selling Price (SP) = 840 × (1 - 0.15) = ₹ 714. Profit = 19%, so 1.19 × CP = 714 ⇒ CP = 714 / 1.19 = ₹ 600.",
+    "difficulty": "Medium",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q57"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "36. If (5x – 7)/3 + 2 = (4x – 3)/4 + 4x, then the value of (8x + 5) is",
+    "options": {
+      "A": "6",
+      "B": "7",
+      "C": "9",
+      "D": "13"
+    },
+    "answer": "A",
+    "explanation": "(5x - 1)/3 = (20x - 3)/4 ⇒ 4(5x - 1) = 3(20x - 3) ⇒ 20x - 4 = 60x - 9 ⇒ 40x = 5 ⇒ x = 1/8. Then 8x + 5 = 8(1/8) + 5 = 1 + 5 = 6.",
+    "difficulty": "Medium",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q58"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "37. Let P = 12xy – 10y^2 – 18x^2, Q = 14x^2 + 12y^2 + 9xy, and R = 5y^2 – x^2 + xy. Then (P + Q) – R =",
+    "options": {
+      "A": "22xy – 3x^2 + 3y^2",
+      "B": "22xy + 3x^2 – 3y^2",
+      "C": "20xy – 7x^2 – 3y^2",
+      "D": "20xy – 3x^2 – 3y^2"
+    },
+    "answer": "D",
+    "explanation": "P + Q = (-18x^2 + 14x^2) + (-10y^2 + 12y^2) + (12xy + 9xy) = -4x^2 + 2y^2 + 21xy. (P + Q) - R = (-4x^2 + 2y^2 + 21xy) - (-x^2 + 5y^2 + xy) = -3x^2 - 3y^2 + 20xy = 20xy - 3x^2 - 3y^2.",
+    "difficulty": "Medium",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q59"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "38. If x^4 + 1/x^4 = 322, x ≠ 0, then one of the values of (x – 1/x) is",
+    "options": {
+      "A": "2",
+      "B": "4",
+      "C": "6",
+      "D": "8"
+    },
+    "answer": "B",
+    "explanation": "(x^2 + 1/x^2)^2 = x^4 + 1/x^4 + 2 = 322 + 2 = 324 ⇒ x^2 + 1/x^2 = 18. Then (x - 1/x)^2 = x^2 + 1/x^2 - 2 = 18 - 2 = 16 ⇒ x - 1/x = 4.",
+    "difficulty": "Hard",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q60"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "39. If 15x^2 – 26x + 8 = (Ax + B)(Cx + D), where A and C are positive integers, then what is the value of (2A + B – C – 2D)?",
+    "options": {
+      "A": "0",
+      "B": "1",
+      "C": "2",
+      "D": "3"
+    },
+    "answer": "B",
+    "explanation": "Factoring: 15x^2 - 20x - 6x + 8 = 5x(3x - 4) - 2(3x - 4) = (3x - 4)(5x - 2). Matching coefficients with positive integers A, C: A=3, B=-4, C=5, D=-2. Then 2A + B - C - 2D = 2(3) + (-4) - 5 - 2(-2) = 6 - 4 - 5 + 4 = 1.",
+    "difficulty": "Hard",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q61"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "40. In ΔABC and ΔDEF, if AB = EF, BC = DE and CA = FD, then",
+    "options": {
+      "A": "ΔABC ≅ ΔDEF",
+      "B": "ΔABC ≅ ΔFED",
+      "C": "ΔABC ≅ ΔEFD",
+      "D": "ΔABC ≅ ΔDFE"
+    },
+    "answer": "B",
+    "explanation": "Corresponding vertices match as: A to F (since CA=FD and AB=EF), B to E (since AB=EF and BC=DE), C to D (since BC=DE and CA=FD). Thus, ΔABC ≅ ΔFED.",
+    "difficulty": "Medium",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q62"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "41. Which of the following can be the sides of a right angled triangle?",
+    "options": {
+      "A": "20 cm, 21 cm and 31 cm",
+      "B": "35 cm, 77 cm and 88 cm",
+      "C": "15 cm, 32 cm and 57 cm",
+      "D": "65 cm, 72 cm and 97 cm"
+    },
+    "answer": "D",
+    "explanation": "By Pythagoras theorem, 65^2 + 72^2 = 4225 + 5184 = 9409 = 97^2. Thus, (65, 72, 97) forms a right-angled triangle.",
+    "difficulty": "Medium",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q63"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "42. The number of edges of a polyhedron, which has 7 faces and 10 vertices, is",
+    "options": {
+      "A": "13",
+      "B": "14",
+      "C": "15",
+      "D": "17"
+    },
+    "answer": "C",
+    "explanation": "Euler's formula for polyhedra is F + V - E = 2. Given F = 7 and V = 10: 7 + 10 - E = 2 ⇒ 17 - E = 2 ⇒ E = 15 edges.",
+    "difficulty": "Easy",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q64"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "43. In ΔABC, the side AB is produced to E and side CA is produced to D. If ∠BAD = 125° and ∠EBC = 100°, then which of the following is true?",
+    "options": {
+      "A": "ΔABC is an isosceles triangle.",
+      "B": "AB > BC",
+      "C": "Difference between ∠ABC and ∠ACB is 35°",
+      "D": "Difference between ∠BAC and ∠ACB is 20°"
+    },
+    "answer": "C",
+    "explanation": "∠BAC = 180° - 125° = 55°. ∠ABC = 180° - 100° = 80°. ∠ACB = 180° - (55° + 80°) = 45°. Difference between ∠ABC and ∠ACB = 80° - 45° = 35°.",
+    "difficulty": "Medium",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q65"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "44. In trapezium PQRS, PQ || SR and the ratio of PQ to SR is 3:2. If the area of the trapezium is 480 cm^2 and the distance between PQ and SR is 12 cm, then the length of SR is",
+    "options": {
+      "A": "24 cm",
+      "B": "32 cm",
+      "C": "36 cm",
+      "D": "48 cm"
+    },
+    "answer": "B",
+    "explanation": "Area = 1/2 × (sum of parallel sides) × height. 480 = 1/2 × (3x + 2x) × 12 ⇒ 480 = 5x × 6 ⇒ 30x = 480 ⇒ x = 16. SR = 2x = 2(16) = 32 cm.",
+    "difficulty": "Medium",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q66"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "45. A rectangular sheet of paper 88 cm × 10 cm is folded without overlapping to make a cylinder of height 10 cm. What is the capacity (in litres) of the cylinder? (Take π = 22/7)",
+    "options": {
+      "A": "5.54",
+      "B": "6.16",
+      "C": "7.392",
+      "D": "8.624"
+    },
+    "answer": "B",
+    "explanation": "Length of paper forms the circumference: 2πr = 88 ⇒ 2 × (22/7) × r = 88 ⇒ r = 14 cm. Volume = πr^2h = (22/7) × 14 × 14 × 10 = 6160 cm^3 = 6.16 litres.",
+    "difficulty": "Medium",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q67"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "46. The volume of a cube is 2197 cm^3. What is its lateral surface area (in cm^2)?",
+    "options": {
+      "A": "676",
+      "B": "576",
+      "C": "845",
+      "D": "1014"
+    },
+    "answer": "A",
+    "explanation": "Side of cube a = ∛2197 = 13 cm. Lateral Surface Area = 4a^2 = 4 × 13^2 = 4 × 169 = 676 cm^2.",
+    "difficulty": "Medium",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q68"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "47. What is the mean of the range, mode and median of the data given below?\n5, 10, 3, 6, 4, 8, 9, 3, 15, 2, 9, 4, 19, 11, 4",
+    "options": {
+      "A": "8",
+      "B": "9",
+      "C": "10",
+      "D": "12"
+    },
+    "answer": "B",
+    "explanation": "Sorted data: 2, 3, 3, 4, 4, 4, 5, 6, 8, 9, 9, 10, 11, 15, 19. Range = 19 - 2 = 17. Mode = 4 (appears most frequently). Median = 8th term = 6. Mean of (17, 4, 6) = (17 + 4 + 6)/3 = 27/3 = 9.",
+    "difficulty": "Medium",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q69"
+  },
+  {
+    "subject": "Mathematics Pedagogy",
+    "question": "48. Which of the following is most appropriate strategy for introducing the concept of multiplication of two decimal numbers in the middle school?",
+    "options": {
+      "A": "The algorithm should be used to introduce the concept.",
+      "B": "The process should be visually represented.",
+      "C": "Multiplication as repeated addition should be emphasized.",
+      "D": "Multiplication as inverse of division should be emphasized."
+    },
+    "answer": "B",
+    "explanation": "Using visual models (like grid representation) helps students build conceptual understanding of decimal multiplication before standard algorithms are taught.",
+    "difficulty": "Medium",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q70"
+  },
+  {
+    "subject": "Mathematics Pedagogy",
+    "question": "49. Which of the following is a narrow aim of teaching mathematics?",
+    "options": {
+      "A": "To encourage systematic reasoning among students.",
+      "B": "To develop students’ ability to argue the truth and falsity of statements.",
+      "C": "To make students proficient in handling numbers and number operations.",
+      "D": "To develop students’ generalization abilities."
+    },
+    "answer": "C",
+    "explanation": "Developing basic numerical literacy and procedural fluency with numbers is considered a 'narrow' or foundational aim, whereas reasoning, argumentation, and generalization represent higher/broader aims.",
+    "difficulty": "Easy",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q71"
+  },
+  {
+    "subject": "Mathematics Pedagogy",
+    "question": "50. Which of the following is most appropriate strategy for teaching students to solve mathematical problems?",
+    "options": {
+      "A": "Guess and verify approach should be strictly discouraged.",
+      "B": "The list of formulae required for solving the given set of problems should be provided in the beginning.",
+      "C": "Teacher should begin by explaining the steps required for obtaining the solutions of the problems.",
+      "D": "Students should be encouraged to view a problem from many perspectives."
+    },
+    "answer": "D",
+    "explanation": "Encouraging multiple perspectives fosters flexible mathematical thinking, deepens conceptual understanding, and improves problem-solving skills.",
+    "difficulty": "Easy",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q72"
+  },
+  {
+    "subject": "Mathematics Pedagogy",
+    "question": "51. Identify the incorrect statement from among the following:",
+    "options": {
+      "A": "Hypothesis have a role in construction of mathematical knowledge.",
+      "B": "The notion of argumentation is central to mathematics.",
+      "C": "Mathematical communication involves precise use of language.",
+      "D": "Conjectures do not have utility in constructing mathematical knowledge."
+    },
+    "answer": "D",
+    "explanation": "Conjectures play a fundamental role in discovering patterns and formulating new mathematical knowledge; claiming they have no utility is incorrect.",
+    "difficulty": "Medium",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q73"
+  },
+  {
+    "subject": "Mathematics Pedagogy",
+    "question": "52. Which of the following is a desirable strategy for assessing students’ learning in mathematics?",
+    "options": {
+      "A": "Same tasks should be given to all students for parity.",
+      "B": "Students’ incorrect answers should be ignored.",
+      "C": "Students’ justification of their responses should be an important basis of assessment.",
+      "D": "Development of mathematical vocabulary should not be a basis of assessment."
+    },
+    "answer": "C",
+    "explanation": "Assessing how students justify their answers gives teachers insights into their underlying reasoning and conceptual clarity.",
+    "difficulty": "Easy",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q74"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "53. For a given figure to be a triangle, the condition that it is a union of three segments is",
+    "options": {
+      "A": "a necessary but not a sufficient condition.",
+      "B": "a sufficient but not a necessary condition.",
+      "C": "both necessary and sufficient condition.",
+      "D": "neither necessary nor sufficient condition."
+    },
+    "answer": "A",
+    "explanation": "Being a union of three line segments is necessary to be a triangle, but not sufficient because the three segments must also be non-collinear and join at endpoints to form a closed 3-sided polygon.",
+    "difficulty": "Hard",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q75"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "54. Consider the following statements:\nA = If n is even, then n^2 is even.\nB = If n^2 is not even, n is not even.\nC = If n^2 is even, then n is even.\nD = If n is not even, then n^2 is not even.\nWhich of the following statements is true?",
+    "options": {
+      "A": "C is converse of A.",
+      "B": "D is converse of A.",
+      "C": "B is inverse of A.",
+      "D": "D is contraposition of A."
+    },
+    "answer": "A",
+    "explanation": "The converse of an implication 'If P, then Q' is 'If Q, then P'. Here, A is 'If n is even (P), then n^2 is even (Q)', and C is 'If n^2 is even (Q), then n is even (P)'. So C is the converse of A.",
+    "difficulty": "Hard",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q76"
+  },
+  {
+    "subject": "Mathematics Pedagogy",
+    "question": "55. Which of the following teaching-learning resources in mathematics cannot be used for visually challenged students?",
+    "options": {
+      "A": "GeoGebra",
+      "B": "Taylor’s abacus",
+      "C": "Tiles",
+      "D": "GeoBoard"
+    },
+    "answer": "A",
+    "explanation": "GeoGebra is a visual dynamic software, whereas Taylor's Abacus, Tiles, and Geoboard provide tactile experiences suitable for visually challenged learners.",
+    "difficulty": "Easy",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q77"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "56. Which of the following statements is true?",
+    "options": {
+      "A": "Mathematics consists of all the theorems proved in mathematics books.",
+      "B": "A person good in arithmetical computation is also good in Mathematics and vice-versa.",
+      "C": "Intuition has no role in generating mathematical knowledge.",
+      "D": "Mathematical statements can be conditional."
+    },
+    "answer": "D",
+    "explanation": "Many mathematical statements are conditional ('if-then') statements expressing relations based on assumptions.",
+    "difficulty": "Medium",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q78"
+  },
+  {
+    "subject": "Mathematics Pedagogy",
+    "question": "57. Which of the following statements is NOT correct regarding differently abled children of dyslexia in mathematics learning in an inclusive classroom?",
+    "options": {
+      "A": "Dyslexia has an impact in a person’s co-ordination of verbal and spatial aspects of numbers.",
+      "B": "Visual patterns in mathematics help in overcoming difficulties experienced by dyslexic children.",
+      "C": "Dyslexic children may have difficulty in writing down their ideas in systematic and organized manner.",
+      "D": "Dyslexia impacts only language learning not mathematics learning."
+    },
+    "answer": "D",
+    "explanation": "Dyslexia can affect reading math symbols, understanding spatial relations, and interpreting word problems, so stating that it affects 'only language learning' is incorrect.",
+    "difficulty": "Medium",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q79"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "58. The number of distinct prime factors of the largest 6-digit number is",
+    "options": {
+      "A": "3",
+      "B": "4",
+      "C": "5",
+      "D": "6"
+    },
+    "answer": "C",
+    "explanation": "Largest 6-digit number = 999999 = 9 × 111 × 1001 = 3^3 × 37 × 7 × 11 × 13. The distinct prime factors are 3, 7, 11, 13, and 37 (total 5 distinct prime factors).",
+    "difficulty": "Hard",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q80"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "59. If the 8-digit number 179x091y is divisible by 88, then what is the value of (x – y)?",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4"
+    },
+    "answer": "B",
+    "explanation": "Divisibility by 8: last 3 digits 91y must be divisible by 8 ⇒ 912 is divisible by 8, so y = 2. Divisibility by 11: (1 + 9 + 0 + 1) - (7 + x + 9 + 2) = 11 - (18 + x) = -7 - x. For this to be divisible by 11, x must be 4. Then x - y = 4 - 2 = 2.",
+    "difficulty": "Hard",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q81"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "60. Let a = 11/13, b = 13/14 and c = 15/17 be three fractions. Which of the following is true?",
+    "options": {
+      "A": "13/14 < 11/13 < 15/17",
+      "B": "15/17 < 13/14 < 11/13",
+      "C": "11/13 < 15/17 < 13/14",
+      "D": "11/13 < 13/14 < 15/17"
+    },
+    "answer": "C",
+    "explanation": "Converting to decimals: a = 11/13 ≈ 0.846; b = 13/14 ≈ 0.928; c = 15/17 ≈ 0.882. So 0.846 < 0.882 < 0.928 ⇒ 11/13 < 15/17 < 13/14.",
+    "difficulty": "Medium",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q82"
+  },
+  {
+    "subject": "Science",
+    "question": "61. Which of the following represents correct matching set?\n(a) helps in movement of body by contraction and relaxation – (i) Cartilage\n(b) Hard structure which forms the skeleton – (ii) Muscles\n(c) Part of skeleton which can be bent – (iii) Rib-cage\n(d) Joins the chest bone and back bone together to form an enclosure – (iv) Bones",
+    "options": {
+      "A": "(a) (i), (b) (iii), (c) (ii), (d) (iv)",
+      "B": "(a) (ii), (b) (iv), (c) (i), (d) (iii)",
+      "C": "(a) (iii), (b) (ii), (c) (i), (d) (iv)",
+      "D": "(a) (iv), (b) (iii), (c) (ii), (d) (i)"
+    },
+    "answer": "B",
+    "explanation": "Muscles contract/relax for movement (a-ii); Bones form the hard skeleton (b-iv); Cartilage is flexible skeleton part (c-i); Rib-cage joins chest and backbone (d-iii).",
+    "difficulty": "Medium",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q83"
+  },
+  {
+    "subject": "Science",
+    "question": "62. Which of the following glands in human beings secretes more than two hormones?",
+    "options": {
+      "A": "Adrenal",
+      "B": "Pituitary",
+      "C": "Pancreas",
+      "D": "Thyroid"
+    },
+    "answer": "B",
+    "explanation": "The pituitary gland (master gland) secretes numerous hormones including TSH, ACTH, Growth Hormone, FSH, LH, and Prolactin.",
+    "difficulty": "Medium",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q84"
+  },
+  {
+    "subject": "Science",
+    "question": "63. Which of the following statements is true?",
+    "options": {
+      "A": "All metals are solids.",
+      "B": "All metals are hard.",
+      "C": "All non-metals are gases.",
+      "D": "All non-metals are non-ductile."
+    },
+    "answer": "D",
+    "explanation": "Non-metals are brittle or gaseous/liquid and cannot be drawn into wires (non-ductile). Options A, B, C have exceptions (Mercury is liquid metal; Sodium is soft; Carbon/Sulfur are solid non-metals).",
+    "difficulty": "Medium",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q85"
+  },
+  {
+    "subject": "Science",
+    "question": "64. ‘Y’ is a man-made fibre obtained from a natural source. What could ‘Y’ be?",
+    "options": {
+      "A": "Rayon",
+      "B": "Nylon",
+      "C": "Acrylic",
+      "D": "Jute"
+    },
+    "answer": "A",
+    "explanation": "Rayon is a semi-synthetic fibre manufactured from wood pulp (a natural cellulose source).",
+    "difficulty": "Easy",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q86"
+  },
+  {
+    "subject": "Science",
+    "question": "65. Study the following table:\nFuel A: High calorific value, Solid, High ignition temp\nFuel B: Moderate calorific value, Gas, High ignition temp\nFuel C: Moderate calorific value, Gas, Moderate ignition temp\nFuel D: Low calorific value, Liquid, Low ignition temp\nWhich is best suited as domestic fuel?",
+    "options": {
+      "A": "A",
+      "B": "B",
+      "C": "C",
+      "D": "D"
+    },
+    "answer": "C",
+    "explanation": "An ideal domestic fuel should be clean (gas), produce reasonable heat (moderate calorific value), and ignite easily and safely (moderate ignition temperature).",
+    "difficulty": "Medium",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q87"
+  },
+  {
+    "subject": "Science",
+    "question": "66. Species restricted to a particular area are referred to as",
+    "options": {
+      "A": "Endangered species",
+      "B": "Extinct species",
+      "C": "Endemic species",
+      "D": "Migratory species"
+    },
+    "answer": "C",
+    "explanation": "Species found exclusively in a specific geographical area are called endemic species.",
+    "difficulty": "Easy",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q88"
+  },
+  {
+    "subject": "Science",
+    "question": "67. Metal ‘X’ displaces metal ‘Y’ from its salt solution but is not able to displace metal ‘Z’ from its salt solution. Identify the most reactive metal.",
+    "options": {
+      "A": "X",
+      "B": "Y",
+      "C": "Z",
+      "D": "Cannot be determined."
+    },
+    "answer": "C",
+    "explanation": "Reactivity order: Since X displaces Y, X > Y. Since X cannot displace Z, Z > X. Thus Z > X > Y, making Z the most reactive metal.",
+    "difficulty": "Medium",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q89"
+  },
+  {
+    "subject": "Science",
+    "question": "68. Light rays from an object fall on a surface and get reflected in a completely diffused manner. What can you say about the nature of image of the object?",
+    "options": {
+      "A": "It will be virtual and of same size.",
+      "B": "It will be real and enlarged.",
+      "C": "It will be virtual and enlarged.",
+      "D": "No image will be formed."
+    },
+    "answer": "D",
+    "explanation": "Diffused reflection occurs from rough surfaces where reflected rays scatter in all directions, so no clear image is formed.",
+    "difficulty": "Medium",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q90"
+  },
+  {
+    "subject": "Science",
+    "question": "69. In order to slide a huge box lying on the ground in her room, Reshma should apply a force which is greater than which of the following forces?",
+    "options": {
+      "A": "Static friction",
+      "B": "Gravitational force",
+      "C": "Normal force",
+      "D": "Muscular force"
+    },
+    "answer": "A",
+    "explanation": "To initiate motion of a stationary object, the applied horizontal force must exceed the maximum static friction force.",
+    "difficulty": "Easy",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q91"
+  },
+  {
+    "subject": "Science",
+    "question": "70. Identify the correct statement from among the following:",
+    "options": {
+      "A": "The lower the frequency of the vibration, higher is the pitch.",
+      "B": "The loudness of sound is determined by the frequency of vibration.",
+      "C": "Sound cannot travel through vacuum.",
+      "D": "Pitch of sound is determined by its amplitude."
+    },
+    "answer": "C",
+    "explanation": "Sound requires a material medium to propagate and cannot travel through a vacuum.",
+    "difficulty": "Easy",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q92"
+  },
+  {
+    "subject": "Science",
+    "question": "71. Which of the following sets comprises liquids which are poor conductors of electricity?",
+    "options": {
+      "A": "tap water, shampoo, honey",
+      "B": "salt solution, lemon juice, vinegar",
+      "C": "shampoo, vegetable oil, distilled water",
+      "D": "sugar solution, vinegar, lemon juice"
+    },
+    "answer": "C",
+    "explanation": "Shampoo, vegetable oil, and distilled water lack free ions and are poor conductors of electricity.",
+    "difficulty": "Medium",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q93"
+  },
+  {
+    "subject": "Science",
+    "question": "72. Which of the following sets comprises chemical changes?",
+    "options": {
+      "A": "Boiling of water, breaking of glass, rusting of iron",
+      "B": "Dissolving salt in water, digestion of food, shredding of paper.",
+      "C": "Cooking of food, boiling of water, dissolving sugar in water.",
+      "D": "Rusting of iron, burning of paper, digestion of food"
+    },
+    "answer": "D",
+    "explanation": "Rusting of iron, burning paper, and digesting food all involve the formation of new chemical substances (irreversible chemical changes).",
+    "difficulty": "Easy",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q94"
+  },
+  {
+    "subject": "Science",
+    "question": "73. Neena was cycling to the market to buy some grocery items. The market is 4 km away from her home. She travels at a speed of 12 km/h for first 10 minutes. On her way she meets her friend Nikhat and stops to chat with her for 15 minutes. She resumes her journey at a speed of 8 km/h. What is her average speed for the journey?",
+    "options": {
+      "A": "6 km/h",
+      "B": "8 km/h",
+      "C": "10 km/h",
+      "D": "4 km/h"
+    },
+    "answer": "A",
+    "explanation": "First leg distance = 12 × (10/60) = 2 km. Remaining distance = 4 - 2 = 2 km. Time for remaining distance = 2 / 8 = 1/4 h = 15 mins. Total time = 10 + 15 + 15 = 40 mins = 2/3 h. Average speed = Total distance / Total time = 4 / (2/3) = 6 km/h.",
+    "difficulty": "Hard",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q95"
+  },
+  {
+    "subject": "Science",
+    "question": "74. Which of the following will not be helpful in the process of separating a mixture of salt and water?",
+    "options": {
+      "A": "Decantation",
+      "B": "Filteration",
+      "C": "Distillation",
+      "D": "Boiling"
+    },
+    "answer": "A",
+    "explanation": "Salt dissolves completely in water. Decantation separates insoluble solids from liquids and cannot separate dissolved salt.",
+    "difficulty": "Medium",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q96"
+  },
+  {
+    "subject": "Science",
+    "question": "75. Which of the following properties of light can be used to explain the phenomenon of shadow formation?\nA. Light travels in a straight line.\nB. Light travels at a high speed.\nC. Light is composed of seven colours.\nD. Light does not pass through opaque objects.",
+    "options": {
+      "A": "A and B",
+      "B": "B and C",
+      "C": "C and D",
+      "D": "D and A"
+    },
+    "answer": "D",
+    "explanation": "Shadows form because light travels in straight lines (rectilinear propagation) and cannot pass through opaque objects.",
+    "difficulty": "Medium",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q97"
+  },
+  {
+    "subject": "Science",
+    "question": "76. Identify the correct statement from among the following:",
+    "options": {
+      "A": "The proportion of fine particles in sandy soil is relatively higher than in the clayey soil.",
+      "B": "The amount of large and fine particles is about the same in clayey soil.",
+      "C": "The proportion of large particles in loamy soil is relatively higher than in the sandy soil.",
+      "D": "The proportion of fine particles in clayey soil is relatively higher than in the loamy soil."
+    },
+    "answer": "D",
+    "explanation": "Clayey soil has the highest proportion of fine, tightly packed particles compared to loamy and sandy soils.",
+    "difficulty": "Medium",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q98"
+  },
+  {
+    "subject": "Science",
+    "question": "77. Deficiency of vitamin ‘X’ causes bleeding of gums. This vitamin is essential for absorption of mineral ‘Y’ and ‘X’ is found in food ‘Z’. Identify X, Y and Z.",
+    "options": {
+      "A": "X-vitamin D, Y- calcium, Z-milk product",
+      "B": "X-vitamin C, Y-iron, Z-citrus fruits",
+      "C": "X-vitamin B, Y-calcium, Z-green leafy vegetables",
+      "D": "X-vitamin A, Y-phosphorus, Z-poultry products"
+    },
+    "answer": "B",
+    "explanation": "Vitamin C deficiency causes scurvy (bleeding gums). Vitamin C assists in iron absorption and is rich in citrus fruits.",
+    "difficulty": "Medium",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q99"
+  },
+  {
+    "subject": "Science Pedagogy",
+    "question": "78. Which of the following statement best describes the nature of science?",
+    "options": {
+      "A": "science is a system of beliefs.",
+      "B": "science is social in nature.",
+      "C": "scientists are totally objective in their work.",
+      "D": "the scientific method is the only guide for conducting research."
+    },
+    "answer": "B",
+    "explanation": "Science is a social endeavor embedded in socio-cultural contexts, involving peer collaboration and societal interactions.",
+    "difficulty": "Easy",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q100"
+  },
+  {
+    "subject": "Science Pedagogy",
+    "question": "79. Cognitive validity in science curriculum means",
+    "options": {
+      "A": "inclusion of how concepts of science evolve over time.",
+      "B": "adaptation of content as per the cognitive level of learners.",
+      "C": "dilution of content",
+      "D": "inclusion of appropriate fun elements of science."
+    },
+    "answer": "B",
+    "explanation": "Cognitive validity requires curriculum content, age-appropriateness, and pedagogical depth to match the cognitive development stage of learners.",
+    "difficulty": "Easy",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q101"
+  },
+  {
+    "subject": "Science Pedagogy",
+    "question": "80. According to N.C.F. 2005 in the upper primary stage science curriculum, which of the following is recommended?\na. Concepts should be linked to making sense of everyday experience.\nb. Concepts should be arrived at from activities/experiments.\nc. Concepts should be taught through disciplinary approach.\nd. Along with concepts, laws and theories need to be introduced",
+    "options": {
+      "A": "a, b and c",
+      "B": "a and b",
+      "C": "a, b and d",
+      "D": "a and d"
+    },
+    "answer": "B",
+    "explanation": "NCF 2005 recommends connecting science learning at the upper primary level to real-life experiences and arriving at concepts through hands-on activities.",
+    "difficulty": "Easy",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q102"
+  },
+  {
+    "subject": "Science Pedagogy",
+    "question": "81. From the following, identify the statement that is true about science.",
+    "options": {
+      "A": "Scientists rely heavily on imagination to carry out their work.",
+      "B": "All scientific ideas are discovered and tested by controlled experiments.",
+      "C": "When a theory has been supported by a great deal of scientific evidence, it becomes law.",
+      "D": "In time, science will be able to solve most of society’s problems."
+    },
+    "answer": "A",
+    "explanation": "Scientific inquiry requires creativity and imagination to formulate hypotheses, design experiments, and develop theories.",
+    "difficulty": "Medium",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q103"
+  },
+  {
+    "subject": "Science Pedagogy",
+    "question": "82. Ishu was given an individual task of collecting weather reports for a week. Identify where Ishu went wrong from the assessment indicators given below:",
+    "options": {
+      "A": "She tabulates data from a website everyday.",
+      "B": "She arrives at conclusion that rain may or may not take place in the coming week.",
+      "C": "She concludes that decreased humidity increases the likelihood of rainfall.",
+      "D": "She understands that range of maximum and minimum temperature varies everyday."
+    },
+    "answer": "C",
+    "explanation": "High humidity (not decreased humidity) increases the likelihood of rainfall, so her scientific inference was wrong.",
+    "difficulty": "Medium",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q104"
+  },
+  {
+    "subject": "Science Pedagogy",
+    "question": "83. Which of the following is a useful strategy to understand conceptual gaps in learners?",
+    "options": {
+      "A": "organizing quiz sessions",
+      "B": "observing practical skills",
+      "C": "using concept maps",
+      "D": "giving homework regularly"
+    },
+    "answer": "C",
+    "explanation": "Concept maps visually expose student understandings, misconnections, and gaps in conceptual relationships.",
+    "difficulty": "Easy",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q105"
+  },
+  {
+    "subject": "Science Pedagogy",
+    "question": "84. To encourage more girls to take up sciences, you may adopt all of the following strategies, except",
+    "options": {
+      "A": "use gender sensitive language and encourage your students to do so.",
+      "B": "be mindful that girls always dominate discussion in science classroom.",
+      "C": "invite women scientists to visit your classroom.",
+      "D": "engage students in examining myths and stereotypes about science."
+    },
+    "answer": "B",
+    "explanation": "Assuming girls 'always dominate' is a biased assumption and not an effective pedagogical strategy.",
+    "difficulty": "Easy",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q106"
+  },
+  {
+    "subject": "Science Pedagogy",
+    "question": "85. Science teachers need to ask more divergent questions because\na. it stimulates and develops critical thinking.\nb. it directs students to correct answers.\nc. it helps develop thinking strategies\nd. it helps in assessing creative behaviour in a learner.",
+    "options": {
+      "A": "a, b, c",
+      "B": "a, c, d",
+      "C": "only b",
+      "D": "only a"
+    },
+    "answer": "B",
+    "explanation": "Divergent questions open up multiple possibilities, stimulating critical thinking, metacognition, and creative expression.",
+    "difficulty": "Easy",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q107"
+  },
+  {
+    "subject": "Science Pedagogy",
+    "question": "86. Using demonstrations in classroom predominantly involves learners in",
+    "options": {
+      "A": "visual and auditory learning",
+      "B": "visual learning only",
+      "C": "visual, auditory and kinesthetic learning",
+      "D": "auditory and kinesthetic learning"
+    },
+    "answer": "A",
+    "explanation": "Demonstrations primarily rely on seeing (visual) the teacher's experiment while hearing (auditory) explanations.",
+    "difficulty": "Easy",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q108"
+  },
+  {
+    "subject": "Science Pedagogy",
+    "question": "87. Give the sequence of planning for your science classroom using inquiry approach in teaching concept of density.\na. allow students to determine relationship between objects that float and sink.\nb. allow students to play with water in a tub with different objects.\nc. ask students to design a small boat that can carry 1 kg of weight.",
+    "options": {
+      "A": "a → b → c",
+      "B": "c → b → a",
+      "C": "b → c → a",
+      "D": "b → a → c"
+    },
+    "answer": "D",
+    "explanation": "Inquiry learning starts with exploration (b: playing with water/objects), followed by developing connections/relationships (a: float/sink relations), and applying knowledge (c: designing a boat).",
+    "difficulty": "Medium",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q109"
+  },
+  {
+    "subject": "Science",
+    "question": "88. ‘Y’ is a plant which does not have Chlorophyll. What could ‘Y’ be?",
+    "options": {
+      "A": "Cuscuta",
+      "B": "Algae",
+      "C": "Pitcher plant",
+      "D": "Maple tree"
+    },
+    "answer": "A",
+    "explanation": "Cuscuta (Amarbel) is a non-green parasitic plant lacking chlorophyll that derives nutrients from a host plant.",
+    "difficulty": "Easy",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q110"
+  },
+  {
+    "subject": "Science",
+    "question": "89. Which of the following statements is correct?",
+    "options": {
+      "A": "Large intestine is wider and shorter than small intestine.",
+      "B": "Absorption of digested food takes place in large intestine.",
+      "C": "Assimilation of food takes place in large intestine.",
+      "D": "Large intestine has finger like projection called villi."
+    },
+    "answer": "A",
+    "explanation": "The large intestine is wider in diameter and shorter in length (about 1.5 m) compared to the small intestine (about 7.5 m). Digested nutrient absorption and villi belong to the small intestine.",
+    "difficulty": "Easy",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q111"
+  },
+  {
+    "subject": "Science",
+    "question": "90. Which of the following statements is NOT true regarding life cycle of silk worm and production of silk fibres?",
+    "options": {
+      "A": "The larvae of silk moths are called as caterpillars.",
+      "B": "The pupa develops into caterpillar.",
+      "C": "Silk fibres are proteins secreted by caterpillars.",
+      "D": "The silk yarn is obtained from the cocoon of the silk moth."
+    },
+    "answer": "B",
+    "explanation": "The caterpillar develops into a pupa (not vice-versa). The pupa remains inside the cocoon and eventually emerges as a moth.",
+    "difficulty": "Easy",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q112"
+  },
+  {
+    "subject": "Social Studies",
+    "question": "31. Consider the statements A, B, C about Autumn season in India and choose the correct answer:\nA. This season is also known as the south-west monsoon season.\nB. Winds blow from the Bay of Bengal and Arabian sea towards the land in this season.\nC. This season is marked by the onset and advance of monsoon.",
+    "options": {
+      "A": "A and B are true, C is false.",
+      "B": "A and C are true, B is false.",
+      "C": "B and C are true, A is false.",
+      "D": "A, B, C all are false."
+    },
+    "answer": "D",
+    "explanation": "Autumn in India is the season of Retreating Monsoons (not southwest monsoon). Winds blow back from mainland towards Bay of Bengal.",
+    "difficulty": "Medium",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q113"
+  },
+  {
+    "subject": "Social Studies",
+    "question": "32. Which of the following rivers form the ‘Sunderban Delta’?",
+    "options": {
+      "A": "Ganga and Brahmaputra",
+      "B": "Narmada and Tapi",
+      "C": "Mahanadi and Godavari",
+      "D": "Krishna and Kaveri"
+    },
+    "answer": "A",
+    "explanation": "The Sunderban Delta is formed by the confluence of the Ganga and Brahmaputra rivers.",
+    "difficulty": "Easy",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q114"
+  },
+  {
+    "subject": "Social Studies",
+    "question": "33. Identify the atmospheric layer from the given features A and B:\nA. Meteorites burn up in this layer on entering from the space.\nB. Temperature declines with increasing height in this layer.",
+    "options": {
+      "A": "Troposphere",
+      "B": "Stratosphere",
+      "C": "Mesosphere",
+      "D": "Thermosphere"
+    },
+    "answer": "C",
+    "explanation": "The mesosphere lies above the stratosphere where meteorites burn upon entry due to friction, and temperature decreases with altitude.",
+    "difficulty": "Easy",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q115"
+  },
+  {
+    "subject": "Social Studies",
+    "question": "34. Insolation is associated with",
+    "options": {
+      "A": "Air pressure",
+      "B": "Seasonal winds",
+      "C": "Solar energy",
+      "D": "Exosphere and its gases"
+    },
+    "answer": "C",
+    "explanation": "Insolation is incoming solar radiation intercepted by the Earth.",
+    "difficulty": "Easy",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q116"
+  },
+  {
+    "subject": "Social Studies",
+    "question": "35. Match the following with appropriate choices:\na. Coniferous forests – (i) Eastern margin of continents\nb. Mediterranean vegetation – (ii) Hardwood trees\nc. Tropical evergreen forests – (iii) Softwood evergreen trees\nd. Temperate evergreen forests – (iv) West and south-west margin of continents",
+    "options": {
+      "A": "a-i, b-ii, c-iii, d-iv",
+      "B": "a-iii, b-iv, c-ii, d-i",
+      "C": "a-iii, b-ii, c-iv, d-i",
+      "D": "a-i, b-iv, c–ii, d-iii"
+    },
+    "answer": "B",
+    "explanation": "Coniferous forests have softwood evergreen trees (a-iii); Mediterranean vegetation is found on west/south-west margins (b-iv); Tropical evergreen forests have hardwood trees (c-ii); Temperate evergreen forests are located on eastern margins (d-i).",
+    "difficulty": "Medium",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q117"
+  },
+  {
+    "subject": "Social Studies",
+    "question": "36. Consider the two statements and choose the correct option:\nStatement (A) : Sahara once used to be a lush green plain.\nStatement (B) : Cave painting in sahara depicts rivers, crocodiles, elephants, lions, cattle and goats.",
+    "options": {
+      "A": "(A) is false, but (B) is true.",
+      "B": "(A) is true, but (B) is false.",
+      "C": "Both (A) and (B) are true.",
+      "D": "Both (A) and (B) are false."
+    },
+    "answer": "C",
+    "explanation": "Climatic evidence and cave paintings confirm that the Sahara was once a fertile, wet region supporting rivers and diverse wildlife.",
+    "difficulty": "Medium",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q118"
+  },
+  {
+    "subject": "Social Studies",
+    "question": "37. Consider the statements A, B, C on dolphin and choose the correct answer:\nA. Dolphins are found in the fresh water of river Ganga and Brahmaputra.\nB. Dolphin sanctuary is located in the state of Bihar.\nC. The presence of dolphin is an indicator of the health of the river.",
+    "options": {
+      "A": "A, B, C all are correct.",
+      "B": "A and C are correct but B is incorrect.",
+      "C": "B and C are correct but A is incorrect.",
+      "D": "A and B are correct but C is incorrect."
+    },
+    "answer": "A",
+    "explanation": "Ganges river dolphins live in Ganga-Brahmaputra freshwater; Vikramshila Dolphin Sanctuary is in Bihar; dolphins serve as bio-indicators of river health.",
+    "difficulty": "Medium",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q119"
+  },
+  {
+    "subject": "Social Studies",
+    "question": "38. Biogas is essentially a mixture of",
+    "options": {
+      "A": "Methane and Carbon dioxide",
+      "B": "Methane and Nitrogen",
+      "C": "Methane and Hydrogen",
+      "D": "Methane and Helium"
+    },
+    "answer": "A",
+    "explanation": "Biogas primarily consists of Methane (50-70%) and Carbon Dioxide (30-40%).",
+    "difficulty": "Easy",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q120"
+  },
+  {
+    "subject": "Social Studies",
+    "question": "39. Consider the statements A and B about resources and choose the correct answer.\nA. All resources have economic value.\nB. Time and technology are two important factors that can change substance into resource.",
+    "options": {
+      "A": "A is false, but B is true.",
+      "B": "A is true, but B is false.",
+      "C": "Both A & B are true and B is the correct explanation of A.",
+      "D": "Both A & B are true but B is not a correct explanation of A."
+    },
+    "answer": "A",
+    "explanation": "Not all resources have economic value (e.g., beautiful scenery). Time and technology transform substances into resources.",
+    "difficulty": "Medium",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q121"
+  },
+  {
+    "subject": "Social Studies",
+    "question": "40. Choose the correct group of conventional sources of energy from the following:",
+    "options": {
+      "A": "Oil, natural gas, firewood",
+      "B": "Coal, firewood, biogas",
+      "C": "Hydel power, geothermal energy, tidal energy",
+      "D": "Nuclear energy, solar energy, hydel power"
+    },
+    "answer": "A",
+    "explanation": "Conventional sources of energy include firewood, fossil fuels (coal, petroleum/oil, natural gas), and hydel power.",
+    "difficulty": "Easy",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q122"
+  },
+  {
+    "subject": "Social Studies",
+    "question": "41. Match the types of natural resources (B) with their classification (A):\na. Level of development & use – (i) Actual & Potential\nb. Origin – (ii) Biotic & Abiotic\nc. Distribution – (iii) Ubiquitous and localised\nd. Stock – (iv) Renewable and Non-renewable",
+    "options": {
+      "A": "a-i, b-ii, c-iii, d-iv",
+      "B": "a-ii, b-i, c-iv, d-iii",
+      "C": "a-iii, b-iv, c-i, d-ii",
+      "D": "a-iv, b-iii, c-ii, d-i"
+    },
+    "answer": "A",
+    "explanation": "Correct pairings: Level of development = Actual & Potential; Origin = Biotic & Abiotic; Distribution = Ubiquitous & Localised; Stock = Renewable & Non-renewable.",
+    "difficulty": "Medium",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q123"
+  },
+  {
+    "subject": "Social Studies",
+    "question": "42. Statement (A) : Around 12,000 years ago, a shift to relatively warmer conditions led to development of grasslands in many areas in India.\nStatement (B) : There was an increase in the number of deer, antelopes, goat, sheep and cattle.",
+    "options": {
+      "A": "(A) is true but (B) is false.",
+      "B": "(A) is false but (B) is true.",
+      "C": "Both (A) and (B) are true and (B) is the reason for (A).",
+      "D": "Both (A) and (B) are true but (B) is not the reason for (A)."
+    },
+    "answer": "D",
+    "explanation": "Warmer climate led to grasslands (A), which in turn caused herbivore populations to increase (B). Both statements are true facts, but B is an outcome, not the cause/reason for A.",
+    "difficulty": "Medium",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q124"
+  },
+  {
+    "subject": "Social Studies",
+    "question": "43. Which of the following is true in the context of ‘sites’?\nA. These are places where remains of past were found.\nB. These are found only on earth’s surface.\nC. These are found only buried under the earth.\nD. They are never found under sea or a river.",
+    "options": {
+      "A": "A only",
+      "B": "A and B only",
+      "C": "A, B and C only",
+      "D": "D only"
+    },
+    "answer": "A",
+    "explanation": "Archaeological sites are places where physical remains of past human activities are found—on earth's surface, buried underground, or underwater.",
+    "difficulty": "Medium",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q125"
+  },
+  {
+    "subject": "Social Studies",
+    "question": "44. The Harappans made\nA. Seals out of stone\nB. Pots with yellow designs\nC. Spindle whorls made of iron\nD. Gold vessels",
+    "options": {
+      "A": "A and C only",
+      "B": "A and D only",
+      "C": "A, B and C only",
+      "D": "B, C and D only"
+    },
+    "answer": "B",
+    "explanation": "Harappans made stone seals and gold ornaments/vessels. They did not use iron (iron was unknown to Harappans) and made pottery with black designs on red clay (not yellow).",
+    "difficulty": "Medium",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q126"
+  },
+  {
+    "subject": "Social Studies",
+    "question": "45. A megalithic burial had remains of two skeletons. An appropriate way for figuring out a female’s skeleton from among the two would be to look at\nA. the bone structures\nB. the ornaments on the skeletons\nC. size of the skeletons\nD. utensils for cooking food found with skeletons.",
+    "options": {
+      "A": "only A",
+      "B": "only A and B",
+      "C": "only A and C",
+      "D": "only D"
+    },
+    "answer": "A",
+    "explanation": "Osteological analysis of bone structure (specifically pelvic area) is the reliable scientific method to distinguish female skeletons.",
+    "difficulty": "Medium",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q127"
+  },
+  {
+    "subject": "Social Studies",
+    "question": "46. Arrange the following in ascending order starting from the earliest period\nA. Beginning of the composition of the Vedas\nB. Beginning of the building of megaliths.\nC. Settlements of Farmers at Inamgaon\nD. Charaka",
+    "options": {
+      "A": "A, B, C, D",
+      "B": "B, C, D, A",
+      "C": "C, D, B, A",
+      "D": "D, C, B, A"
+    },
+    "answer": "A",
+    "explanation": "Vedas composition (~3500 yrs ago) → Megaliths (~3000 yrs ago) → Inamgaon settlement (~3600 to 2700 yrs ago) → Charaka (~2000 yrs ago). Ascending order: A, B, C, D.",
+    "difficulty": "Hard",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q128"
+  },
+  {
+    "subject": "Social Studies",
+    "question": "47. Arrange the following in descending order (backward) starting from the recent period :\nA. Increase in the use of iron, cities, punch marked coins.\nB. Beginning of the use of iron in the subcontinent.\nC. Settlement in Arikamedu port\nD. Beginning of the composition of Sangam literature.",
+    "options": {
+      "A": "A, C, B, D",
+      "B": "A, B, C, D",
+      "C": "C, D, A, B",
+      "D": "C, D, B, A"
+    },
+    "answer": "C",
+    "explanation": "Recent to earliest (descending): Arikamedu port settlement (~2200-1900 yrs ago - C) → Sangam literature (~2300 yrs ago - D) → Iron cities/punch coins (~2500 yrs ago - A) → Iron usage start (~3000 yrs ago - B). Order: C, D, A, B.",
+    "difficulty": "Hard",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q129"
+  },
+  {
+    "subject": "Social Studies",
+    "question": "48. Statement (A) : Chola temples were the hub of religious, social and cultural life.\nStatement (B) : Chola bronze images were of deities but sometimes also of devotees.",
+    "options": {
+      "A": "(A) is true, but (B) is false.",
+      "B": "(A) is false, but (B) is true.",
+      "C": "Both (A) and (B) are true and (B) is the correct explanation of (A).",
+      "D": "Both (A) and (B) are true, but (B) is not the correct explanation of (A)."
+    },
+    "answer": "D",
+    "explanation": "Chola temples were economic/social/cultural centers, and Chola bronze sculptures depicted both deities and devotees. Both statements are correct facts, but B does not explain A.",
+    "difficulty": "Medium",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q130"
+  },
+  {
+    "subject": "Social Studies",
+    "question": "49. Statement (A) : The authors of ‘tawarikhs’ during the Delhi Sultans advised on preserving an ideal social order based on ‘birthright’ and ‘gender distinctions’.\nStatement (B) : Their ideas were shared by everybody.",
+    "options": {
+      "A": "(A) is true but (B) is false.",
+      "B": "(A) is false but (B) is true.",
+      "C": "Both (A) and (B) are true and (B) is the correct explanation of (A).",
+      "D": "Both (A) and (B) are true, but (B) is not the correct explanation of (A)."
+    },
+    "answer": "A",
+    "explanation": "Authors of Tawarikh advised rulers on social order based on birthright and gender, but these hierarchical ideas were NOT shared by everybody in society.",
+    "difficulty": "Medium",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q131"
+  },
+  {
+    "subject": "Social Studies",
+    "question": "50. Statement (A) : Raziya changed her name on her inscriptions and pretended she was a man.\nStatement (B) : Authors of tawarikhs used social and gender differences to argue that men are superior to women.",
+    "options": {
+      "A": "(A) is true, but (B) is false.",
+      "B": "(A) is false, but (B) is true.",
+      "C": "Both (A) and (B) are true and (B) is the correct explanation of (A).",
+      "D": "Both (A) and (B) are true but (B) is not the correct explanation of (A)."
+    },
+    "answer": "B",
+    "explanation": "Raziya stated in inscriptions that she was the daughter of Sultan Iltutmish (she did NOT pretend to be a man; Queen Rudramadevi changed her name to appear as a man). Statement B is true.",
+    "difficulty": "Medium",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q132"
+  },
+  {
+    "subject": "Social Studies",
+    "question": "51. Statement (A) : Akbar, Jahangir and Shahjahan followed the idea of Sulh-i-Kul (universal peace) as principles of governance.\nStatement (B) : Akbar’s interactions with people connected with faiths, made him realise that religious scholars who emphasised rituals and dogmas were often bigots.",
+    "options": {
+      "A": "(A) is true, but (B) is false.",
+      "B": "(A) is false, but (B) is true.",
+      "C": "Both (A) and (B) are true and (B) is the reason for (A).",
+      "D": "Both (A) and (B) are true but (B) is not the reason for (A)."
+    },
+    "answer": "C",
+    "explanation": "Akbar's realization of religious bigotry led him to construct Sulh-i-Kul (universal peace), which was adopted by Jahangir and Shahjahan as a principle of governance.",
+    "difficulty": "Medium",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q133"
+  },
+  {
+    "subject": "Social Studies",
+    "question": "52. Statement (A) : Under the Delhi Sultans and the Mughals, the hierarchy between social classes decreased.\nStatement (B) : The tribal societies were not divided into numerous unequal classes.",
+    "options": {
+      "A": "(A) is true, but (B) is false.",
+      "B": "(A) is false, but (B) is true.",
+      "C": "Both (A) and (B) are true and (B) is the correct explanation of (A).",
+      "D": "Both (A) and (B) are true, but (B) is not the correct explanation of (A)."
+    },
+    "answer": "B",
+    "explanation": "Under Sultans/Mughals, social hierarchy actually increased (not decreased). Tribal societies were generally egalitarian and not divided into unequal classes.",
+    "difficulty": "Medium",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q134"
+  },
+  {
+    "subject": "Social Studies",
+    "question": "53. Statement (A) : Bahadur Shah Zafar wrote letters to all the chiefs and rulers to organise a confederacy of Indian states to fight the British.\nStatement (B) : Bahadur Shah Zafar’s decision to bless the rebellion of 1857 changed the entire situation dramatically.",
+    "options": {
+      "A": "(A) is true but (B) is false.",
+      "B": "(A) is false, but (B) is true.",
+      "C": "Both (A) and (B) are true and (B) was ensured because of (A).",
+      "D": "Both (A) and (B) are true but (A) has no relationship with (B)."
+    },
+    "answer": "C",
+    "explanation": "Bahadur Shah Zafar's endorsement and letters to rulers united local leaders and energized the 1857 revolt across India.",
+    "difficulty": "Medium",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q135"
+  },
+  {
+    "subject": "Social Studies",
+    "question": "54. Which of the following is FALSE in the context of women, caste and reform during the colonial period?",
+    "options": {
+      "A": "Pandita Ramabai founded a widow’s home at Poona.",
+      "B": "The knowledge of ancient texts helped the reformers promote new laws.",
+      "C": "Vidyasagar suggested that widows could remarry.",
+      "D": "Prarthana Samaj drew only upon Hindu texts."
+    },
+    "answer": "D",
+    "explanation": "Prarthana Samaj drew upon Christian and Islamic ideas along with Hindu traditions; saying it drew 'only' upon Hindu texts is false.",
+    "difficulty": "Medium",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q136"
+  },
+  {
+    "subject": "Social Studies",
+    "question": "55. The state of Telangana was earlier part of which state of India?",
+    "options": {
+      "A": "Madhya Pradesh",
+      "B": "Karnataka",
+      "C": "Maharashtra",
+      "D": "Andhra Pradesh"
+    },
+    "answer": "D",
+    "explanation": "Telangana was carved out of Andhra Pradesh in 2014 to become India's 29th state.",
+    "difficulty": "Easy",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q137"
+  },
+  {
+    "subject": "Social Studies",
+    "question": "56. Consider the following statements and select the option that indicates the correct role of media in a democracy:\nA. It should provide information to citizens through news.\nB. It should provide the point of view of the advertiser, through its news programmes.\nC. It must discuss the views of all sections.",
+    "options": {
+      "A": "Only A and B",
+      "B": "Only B and C",
+      "C": "Only A and C",
+      "D": "A, B and C"
+    },
+    "answer": "C",
+    "explanation": "Balanced media in a democracy should inform citizens objectively (A) and represent diverse viewpoints (C), without favoring commercial advertisers (B).",
+    "difficulty": "Easy",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q138"
+  },
+  {
+    "subject": "Social Studies",
+    "question": "57. Which of the following advertisements is not an example of gender stereotype?",
+    "options": {
+      "A": "A girl playing football in an advertisement for a sports shoe.",
+      "B": "A mother making tea in an advertisement for a tea brand.",
+      "C": "A woman doing makeup in an advertisement for a lipstick.",
+      "D": "A woman being dropped by her husband to office in an advertisement for a car."
+    },
+    "answer": "A",
+    "explanation": "A girl playing football challenges traditional gender roles and breaks stereotypical representations.",
+    "difficulty": "Easy",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q139"
+  },
+  {
+    "subject": "Social Studies",
+    "question": "58. Identify the continent from the given features A and B:\nA. It is the smallest continent that lies entirely in the Southern Hemisphere.\nB. It is also called an ‘Island continent’.",
+    "options": {
+      "A": "Antarctica",
+      "B": "Australia",
+      "C": "South America",
+      "D": "Africa"
+    },
+    "answer": "B",
+    "explanation": "Australia is the smallest continent, completely in the Southern Hemisphere, surrounded by oceans (Island Continent).",
+    "difficulty": "Easy",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q140"
+  },
+  {
+    "subject": "Social Studies",
+    "question": "59. As we move away from the sun in the solar system,",
+    "options": {
+      "A": "time taken by planets to complete one orbit around the sun increases.",
+      "B": "time taken by planets to complete one orbit around the sun decreases.",
+      "C": "size of the planets decreases gradually.",
+      "D": "planets very close to the sun are made up of gases and liquids and the planets far away from the sun are made up of rocks."
+    },
+    "answer": "A",
+    "explanation": "Orbital period increases with distance from the Sun due to larger orbital paths and lower gravitational pull.",
+    "difficulty": "Easy",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q141"
+  },
+  {
+    "subject": "Social Studies",
+    "question": "60. Imagine if the earth is not inclined towards the plane of its orbit, then\nA. the circle of illumination will match with longitudinal lines.\nB. the circle of illumination will match with latitudinal lines.\nC. there will be no seasonal variation in a particular region.\nD. there will be more seasonal variation in a particular region.\nChoose the correct option.",
+    "options": {
+      "A": "A and C",
+      "B": "A and D",
+      "C": "B and C",
+      "D": "B and D"
+    },
+    "answer": "A",
+    "explanation": "Without axial tilt, the circle of illumination would align with longitudes (pole to pole), resulting in equal day/night and an absence of seasonal changes.",
+    "difficulty": "Medium",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q142"
+  },
+  {
+    "subject": "Social Studies",
+    "question": "61. A Gram Panchayat is elected for a term of how many years in India?",
+    "options": {
+      "A": "5",
+      "B": "6",
+      "C": "4",
+      "D": "3"
+    },
+    "answer": "A",
+    "explanation": "In India, Panchayati Raj institutions are elected for a 5-year tenure.",
+    "difficulty": "Easy",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q143"
+  },
+  {
+    "subject": "Social Studies",
+    "question": "62. What is the designation of the person in-charge of a police station?",
+    "options": {
+      "A": "Station House Officer",
+      "B": "Police Superintendent",
+      "C": "Officer on Special Duty",
+      "D": "Home Inspector"
+    },
+    "answer": "A",
+    "explanation": "The official in charge of a local police station is the Station House Officer (SHO).",
+    "difficulty": "Easy",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q144"
+  },
+  {
+    "subject": "Social Studies",
+    "question": "63. The Amendment brought about in 2005 to the Hindu Succession Act provided for which of the following?",
+    "options": {
+      "A": "Right of minority communities to open religious schools.",
+      "B": "Right of women to have an equal share in family property.",
+      "C": "Right of Hindu community to have special laws governing marriage.",
+      "D": "Right of men to protect themselves from paying compensation after divorce."
+    },
+    "answer": "B",
+    "explanation": "The Hindu Succession Amendment Act (2005) gave daughters equal inheritance rights in agricultural land and ancestral property.",
+    "difficulty": "Easy",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q145"
+  },
+  {
+    "subject": "Social Studies",
+    "question": "64. Who is considered as the final interpreter of the Indian Constitution?",
+    "options": {
+      "A": "President of India",
+      "B": "Parliament",
+      "C": "Judiciary",
+      "D": "Attorney General"
+    },
+    "answer": "C",
+    "explanation": "The Judiciary (Supreme Court of India) acts as the custodian and final interpreter of the Constitution.",
+    "difficulty": "Easy",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q146"
+  },
+  {
+    "subject": "Social Studies",
+    "question": "65. The (Prevention of Atrocities) Act, 1989 was enacted to provide justice to which of the following communities?",
+    "options": {
+      "A": "Dalits and Minorities",
+      "B": "Minorities and Tribals",
+      "C": "Tribals and Dalits",
+      "D": "Only Minorities"
+    },
+    "answer": "C",
+    "explanation": "The Scheduled Castes and Scheduled Tribes (Prevention of Atrocities) Act, 1989 was enacted to protect Dalits and Adivasis (Tribals).",
+    "difficulty": "Easy",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q147"
+  },
+  {
+    "subject": "Social Studies",
+    "question": "66. A political system having more than one level of government can be described as ________.",
+    "options": {
+      "A": "Secular",
+      "B": "Liberal",
+      "C": "Republican",
+      "D": "Federal"
+    },
+    "answer": "D",
+    "explanation": "Federalism refers to a system of government divided into multiple levels (e.g., Union, State, Local).",
+    "difficulty": "Easy",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q148"
+  },
+  {
+    "subject": "Social Studies",
+    "question": "67. Which of the following policies promotes social justice?\nA. Reservation of seats in government employment for listed dalit candidate.\nB. Enacting Minimum Wages Act",
+    "options": {
+      "A": "Only A",
+      "B": "Only B",
+      "C": "Both A and B",
+      "D": "Neither A nor B"
+    },
+    "answer": "C",
+    "explanation": "Affirmative action (reservations) and protective labor laws (minimum wages) both serve to advance social justice and equity.",
+    "difficulty": "Easy",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q149"
+  },
+  {
+    "subject": "Social Studies Pedagogy",
+    "question": "68. In a discussion on architecture of New Delhi, a teacher should focus on discussing:",
+    "options": {
+      "A": "how tourists look at the buildings.",
+      "B": "how to view the buildings from a distance.",
+      "C": "superiority of its style over Old Delhi",
+      "D": "how it asserted British importance and created sense of awe"
+    },
+    "answer": "D",
+    "explanation": "Colonial architectural planning in New Delhi was designed to project imperial power, British supremacy, and awe.",
+    "difficulty": "Medium",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q150"
+  },
+  {
+    "subject": "Social Studies Pedagogy",
+    "question": "69. The teaching of History must be done with the focussed objective of",
+    "options": {
+      "A": "transmitting what happened in the pasts.",
+      "B": "memorising how it happened in the pasts.",
+      "C": "identifying issues which are relevant in the present.",
+      "D": "developing performing abilities of the learners."
+    },
+    "answer": "C",
+    "explanation": "Effective history pedagogy helps students critically reflect on historical processes to understand contemporary society and issues.",
+    "difficulty": "Easy",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q151"
+  },
+  {
+    "subject": "Social Studies Pedagogy",
+    "question": "70. What can be the purpose of introducing current affairs in social science classroom?\nA. Promote interest in the issues of the country.\nB. Develop skills of analysis and critical evaluation.\nC. Build interest in the subject by providing sensational news.\nD. Help the learner relate school learning to life outside of school.\nChoose the correct option :",
+    "options": {
+      "A": "A, B, C are true.",
+      "B": "A, B, D are true.",
+      "C": "A, C, D are true.",
+      "D": "B, C, D are true."
+    },
+    "answer": "B",
+    "explanation": "Integrating current affairs connects curriculum to real-world contexts (D), builds civic awareness (A), and fosters analytical skills (B), whereas 'sensational news' (C) is inappropriate.",
+    "difficulty": "Easy",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q152"
+  },
+  {
+    "subject": "Social Studies Pedagogy",
+    "question": "71. The objective of discussing ‘equality’ in a social science classroom is to\nA. address issues of dignity with the learners.\nB. sensitize learners towards respecting everyone.\nC. build upon values enshrined in the Constitution.\nD. explain that all differences leads to inequality.\nChoose the correct option :",
+    "options": {
+      "A": "A, B, C are true.",
+      "B": "A, B, D are true.",
+      "C": "A, C, D are true.",
+      "D": "B, C, D are true."
+    },
+    "answer": "A",
+    "explanation": "Equality discussions foster dignity (A), mutual respect (B), and constitutional values (C). Differences represent diversity, not necessarily inequality (D).",
+    "difficulty": "Easy",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q153"
+  },
+  {
+    "subject": "Social Studies Pedagogy",
+    "question": "72. In order to address the diversity that exists in the class and in society, a social science teacher needs to\nA. include examples of multiple cultures in the class discussions.\nB. take up only examples that are relevant to the majority.\nC. encourage students to share their personal experiences in the class.\nChoose the correct option :",
+    "options": {
+      "A": "A and C are true.",
+      "B": "B and C are true.",
+      "C": "Only B is true.",
+      "D": "A and B are true."
+    },
+    "answer": "A",
+    "explanation": "Including multicultural examples (A) and inviting diverse personal narratives (C) respects classroom diversity.",
+    "difficulty": "Easy",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q154"
+  },
+  {
+    "subject": "Social Studies Pedagogy",
+    "question": "73. Assessment in social science should emphasise:",
+    "options": {
+      "A": "identification of learners who are failing.",
+      "B": "testing learners writing abilities in the class.",
+      "C": "measuring retention of information by learners.",
+      "D": "evaluation of learners ability to extrapolate their learning to various life situations."
+    },
+    "answer": "D",
+    "explanation": "Social science evaluation should focus on critical thinking, conceptual comprehension, and applying classroom learning to real-life contexts.",
+    "difficulty": "Easy",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q155"
+  },
+  {
+    "subject": "Social Studies",
+    "question": "74. An example of secondary source is",
+    "options": {
+      "A": "C.A. Bayly’s An Illustrated History of Modern India",
+      "B": "James Mill’s A History of British India",
+      "C": "Constitution of India",
+      "D": "Painting by Abanindranath Tagore"
+    },
+    "answer": "A",
+    "explanation": "C.A. Bayly's work is a modern historical analysis synthesizing primary sources, making it a secondary source.",
+    "difficulty": "Medium",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q156"
+  },
+  {
+    "subject": "Social Studies",
+    "question": "75. To discuss on women’s education in colonial India, students could refer to the following autobiography:",
+    "options": {
+      "A": "Tarabai Shinde’s Stripurushtulna",
+      "B": "Rashsundari Devi’s Amar Jiban",
+      "C": "Rokeya Sakhawat Hossain’s Sultana’s Dream",
+      "D": "Sattanar’s Manimekalai"
+    },
+    "answer": "B",
+    "explanation": "Amar Jiban by Rashsundari Devi is the first full-length autobiography written in Bengali by an Indian woman, detailing her struggle for literacy.",
+    "difficulty": "Medium",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q157"
+  },
+  {
+    "subject": "Social Studies Pedagogy",
+    "question": "76. The teaching of Geography should develop perspectives related to issues concerning\nA. Resources and Conservation\nB. Development and Displacement\nC. Challenges to Unity in Diversity\nD. Human Development\nChoose the correct option :",
+    "options": {
+      "A": "only A and B",
+      "B": "only A and D",
+      "C": "A, B and C",
+      "D": "A, B and D"
+    },
+    "answer": "D",
+    "explanation": "Geography covers human-environment interactions, resource conservation, development/displacement, and human development indices.",
+    "difficulty": "Medium",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q158"
+  },
+  {
+    "subject": "Social Studies Pedagogy",
+    "question": "77. An active social science classroom would encourage learners to",
+    "options": {
+      "A": "keep discussions minimal",
+      "B": "be focussed on reading the textbook",
+      "C": "listen to the lectures and rely on what is being shared.",
+      "D": "participate in challenging projects."
+    },
+    "answer": "D",
+    "explanation": "Active learning engages students through inquiry, project-based work, critical thinking, and collaborative tasks.",
+    "difficulty": "Easy",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q159"
+  },
+  {
+    "subject": "Social Studies Pedagogy",
+    "question": "78. Which of the following are true about End-Text questions?\nA. Encourage learners to explain concepts in their own words and debating on issues.\nB. Project work, compare and contrast are types of end-text questions.\nC. Expands on the learners’ understanding of concepts and relate with what has been taught earlier.\nChoose the correct option :",
+    "options": {
+      "A": "A, B and C are true.",
+      "B": "A and B are true.",
+      "C": "A and C are true.",
+      "D": "B and C are true."
+    },
+    "answer": "A",
+    "explanation": "End-text questions in NCERT textbooks aim to build critical analysis, comparative reasoning, project skills, and concept expansion.",
+    "difficulty": "Easy",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q160"
+  },
+  {
+    "subject": "Social Studies Pedagogy",
+    "question": "79. The social and political life textbooks :\nA. Include definitions and descriptions of socio-political issues.\nB. Portray institutions and processes as if they functioned as envisioned in the Constitution\nC. Provide diverse concrete examples of people and regions.\nChoose the correct option :",
+    "options": {
+      "A": "A and B",
+      "B": "A and C",
+      "C": "B and C",
+      "D": "A, B and C"
+    },
+    "answer": "B",
+    "explanation": "Social and Political Life (SPL) textbooks move away from purely formalistic portrayals to present concrete, real-life case studies (C) along with conceptual descriptions (A).",
+    "difficulty": "Medium",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q161"
+  },
+  {
+    "subject": "Social Studies Pedagogy",
+    "question": "80. After narrating Dr. Ambedkar’s experience on the way to Koregaon, a teacher asks, ‘Do you think people at the station discriminated against Dr. Ambedkar and his brothers?’ In this question, which skill is the teacher emphasising?",
+    "options": {
+      "A": "comparing experiences",
+      "B": "infer from situations",
+      "C": "cause and effect",
+      "D": "hypothesizing situation"
+    },
+    "answer": "B",
+    "explanation": "The teacher asks students to analyze the contextual details of the story to draw inferences about social discrimination.",
+    "difficulty": "Medium",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q162"
+  },
+  {
+    "subject": "Social Studies Pedagogy",
+    "question": "81. To introduce the theme ‘Markets’, which would be the best pedagogical method?",
+    "options": {
+      "A": "textbook reading and discussion.",
+      "B": "inviting a shopkeeper for an interview to the class.",
+      "C": "showing pictures of various markets.",
+      "D": "locating major markets around the school on a map."
+    },
+    "answer": "B",
+    "explanation": "Interviews with practitioners (shopkeepers) bring experiential, authentic, and contextual learning into the classroom.",
+    "difficulty": "Medium",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q163"
+  },
+  {
+    "subject": "Social Studies Pedagogy",
+    "question": "82. ‘This is the glory of God,\nDefilement exists within.\nThe body is polluted from within,\nBe sure of it says the Mahari Chokha’\nAs a teacher, how would you interpret this poem and discuss with your learners?",
+    "options": {
+      "A": "Human purity is fixed at birth.",
+      "B": "Human purity is determined by the work we do.",
+      "C": "Human purity is determined by our thoughts and beliefs.",
+      "D": "Human purity can be achieved by seeking God’s blessing."
+    },
+    "answer": "C",
+    "explanation": "Soyrabai's poem challenges ritual purity based on caste, asserting that true purity/defilement resides within one's internal thoughts and conduct.",
+    "difficulty": "Medium",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q164"
+  },
+  {
+    "subject": "Social Studies Pedagogy",
+    "question": "83. Social Science curriculum at the upper primary stage focuses on :\nA. Understanding earth as the habitat of life forms\nB. Studying own region, state and country\nC. Studying India’s past and current development\nChoose the correct option :",
+    "options": {
+      "A": "only A",
+      "B": "only A and B",
+      "C": "A, B and C",
+      "D": "only A and C"
+    },
+    "answer": "C",
+    "explanation": "Upper primary social science encompasses geography (Earth as habitat), local/national geography, and Indian history/socio-economic development.",
+    "difficulty": "Easy",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q165"
+  },
+  {
+    "subject": "Social Studies Pedagogy",
+    "question": "84. Using a globe and a source of light, teacher can demonstrate the following concepts :\nA. Rotation\nB. Day – Night\nC. Seasonal Variations\nD. Distribution of Rainfall\nChoose the correct option;",
+    "options": {
+      "A": "A, B and C",
+      "B": "A, B and D",
+      "C": "A, C and D",
+      "D": "B, C and D"
+    },
+    "answer": "A",
+    "explanation": "A globe and light source effectively demonstrate Earth's rotation (A), day/night cycle (B), and seasonal variation due to axial tilt (C), but cannot show rainfall distribution (D).",
+    "difficulty": "Easy",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q166"
+  },
+  {
+    "subject": "Social Studies Pedagogy",
+    "question": "85. As a teacher, you can make interlinkages while discussing ‘Iron smelters and factory owners’, a theme in History with which one of the following chapters of geography textbook?\nA. Mineral Resources\nB. Industries\nC. Power Resources\nD. Inside our earth\nChoose the correct option :",
+    "options": {
+      "A": "A, B and C",
+      "B": "A, B and D",
+      "C": "A, C and D",
+      "D": "B, C and D"
+    },
+    "answer": "A",
+    "explanation": "History of iron smelting correlates with mineral extraction (mineral resources), industrial development (industries), and energy requirements (power resources).",
+    "difficulty": "Medium",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q167"
+  },
+  {
+    "subject": "Social Studies Pedagogy",
+    "question": "86. In a city school, the best method to introduce ‘Types of Forests’ in a geography class would be to",
+    "options": {
+      "A": "organize a field visit to a forest near to the school.",
+      "B": "make a PowerPoint presentation on forests in the region.",
+      "C": "screen a documentary on different types of forests.",
+      "D": "divide learners into small groups to work on types of forests."
+    },
+    "answer": "C",
+    "explanation": "A documentary provides visual and concrete representations of geographically distant and varied forest biomes.",
+    "difficulty": "Medium",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q168"
+  },
+  {
+    "subject": "Social Studies Pedagogy",
+    "question": "87. To develop practical skills among learners while discussing ‘earthquakes’ teacher should focus upon",
+    "options": {
+      "A": "Types of earthquakes",
+      "B": "Precautions during earthquake",
+      "C": "Present cases of earthquakes",
+      "D": "An activity on earth’s movement"
+    },
+    "answer": "B",
+    "explanation": "Learning safety precautions during earthquakes builds practical life skills and disaster management readiness.",
+    "difficulty": "Easy",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q169"
+  },
+  {
+    "subject": "Social Studies",
+    "question": "88. The local people of the Tawa reservoir area organised to demand which right related to their livelihood in the 1990s?",
+    "options": {
+      "A": "Cultivation rights",
+      "B": "Fishing rights",
+      "C": "Horticulture rights",
+      "D": "Commercial Forestry rights"
+    },
+    "answer": "B",
+    "explanation": "The Tawa Matsya Sangh (TMS) was a federation of fisherworker cooperatives in Madhya Pradesh fighting for fishing rights in the Tawa reservoir.",
+    "difficulty": "Easy",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q170"
+  },
+  {
+    "subject": "Social Studies",
+    "question": "89. Choose the description that best represents diversity from among the following.",
+    "options": {
+      "A": "It leads to discrimination among people.",
+      "B": "It leads to similarity of people.",
+      "C": "It accepts differences among people.",
+      "D": "It accepts inequality among people."
+    },
+    "answer": "C",
+    "explanation": "Diversity refers to recognizing, respecting, and celebrating individual and cultural differences.",
+    "difficulty": "Easy",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q171"
+  },
+  {
+    "subject": "Social Studies",
+    "question": "90. In the context of democracy in India, which of the following statements is false?",
+    "options": {
+      "A": "A small section of Indian population could vote even before independence of India.",
+      "B": "India adopted representative democracy after independence.",
+      "C": "In India people participate indirectly in the working of the government.",
+      "D": "The first general election after independence was held in 1950."
+    },
+    "answer": "D",
+    "explanation": "India's first general elections were held between October 1951 and February 1952 (commonly referred to as the 1951–52 elections, not 1950).",
+    "difficulty": "Medium",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q172"
+  },
+  {
+    "subject": "English Language I",
+    "question": "91. Thoughts affect us when our",
+    "options": {
+      "A": "job is affected.",
+      "B": "sleep is disturbed.",
+      "C": "learning is affected.",
+      "D": "pride is hurt."
+    },
+    "answer": "D",
+    "explanation": "According to the passage, thoughts affect us deeply 'when our ego is hit' (pride is hurt).",
+    "difficulty": "Easy",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q173"
+  },
+  {
+    "subject": "English Language I",
+    "question": "92. Read the following statements :\nA. Our reading decides the filter in our minds.\nB. The filter in our mind controls our likes but not dislikes.",
+    "options": {
+      "A": "Both A and B are correct.",
+      "B": "Both A and B are incorrect.",
+      "C": "A is correct and B is incorrect.",
+      "D": "A is incorrect and B is correct."
+    },
+    "answer": "C",
+    "explanation": "The passage explicitly states we acquire the filter through the books we read (A is true). Statement B is false as the filter chooses what we like to brood upon.",
+    "difficulty": "Medium",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q174"
+  },
+  {
+    "subject": "English Language I",
+    "question": "93. Which of the following statements is incorrect?",
+    "options": {
+      "A": "Each one of us has an inborn filter in our mind.",
+      "B": "We like to be respected when we go somewhere.",
+      "C": "The filter in our minds influences our actions.",
+      "D": "Our thoughts do not remain stuck at one point."
+    },
+    "answer": "A",
+    "explanation": "The passage states: 'We are not born with this filter', making statement A incorrect.",
+    "difficulty": "Easy",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q175"
+  },
+  {
+    "subject": "English Language I",
+    "question": "94. Which part of speech is the underlined word in the following expression?\n‘But we get affected’",
+    "options": {
+      "A": "Verb",
+      "B": "Adjective",
+      "C": "Adverb",
+      "D": "Particle"
+    },
+    "answer": "A",
+    "explanation": "'Affected' functions as the past participle form of the verb in the passive construction.",
+    "difficulty": "Medium",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q176"
+  },
+  {
+    "subject": "English Language I",
+    "question": "95. Which part of speech is the underlined word in the following expression?\n‘It cannot stay at one place.’",
+    "options": {
+      "A": "Determiner",
+      "B": "Pronoun",
+      "C": "Particle",
+      "D": "Adverb"
+    },
+    "answer": "A",
+    "explanation": "'One' modifies the noun 'place' and functions as a numerical determiner.",
+    "difficulty": "Medium",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q177"
+  },
+  {
+    "subject": "English Language I",
+    "question": "96. ‘as if in ceaseless activity’\nThe word ‘ceaseless’ means",
+    "options": {
+      "A": "permanent",
+      "B": "continuous",
+      "C": "temporary",
+      "D": "flawless"
+    },
+    "answer": "B",
+    "explanation": "'Ceaseless' means without stop or pause, i.e., continuous.",
+    "difficulty": "Easy",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q178"
+  },
+  {
+    "subject": "English Language I",
+    "question": "97. ‘creates a tornado of restlessness’\nThe word ‘tornado’ here means",
+    "options": {
+      "A": "waterfall",
+      "B": "confusion",
+      "C": "storm",
+      "D": "mixture"
+    },
+    "answer": "C",
+    "explanation": "In this context, 'tornado' metaphorically refers to a violent storm or upheaval of feelings.",
+    "difficulty": "Easy",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q179"
+  },
+  {
+    "subject": "English Language I",
+    "question": "98. Thoughts are compared to",
+    "options": {
+      "A": "comments",
+      "B": "judgements",
+      "C": "associations",
+      "D": "clouds"
+    },
+    "answer": "D",
+    "explanation": "The text states: 'Like clouds in the sky or waves in the ocean, thoughts appear and disappear...'.",
+    "difficulty": "Easy",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q180"
+  },
+  {
+    "subject": "English Language I",
+    "question": "99. The process of thinking continues from",
+    "options": {
+      "A": "day to day",
+      "B": "week to week",
+      "C": "morning to night",
+      "D": "year to year"
+    },
+    "answer": "C",
+    "explanation": "The passage says: 'Thinking is a continuous activity... from morning till night.'",
+    "difficulty": "Easy",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q181"
+  },
+  {
+    "subject": "English Language I",
+    "question": "100. The poet’s life, today, is like ______ season.",
+    "options": {
+      "A": "spring",
+      "B": "autumn",
+      "C": "winter",
+      "D": "summer"
+    },
+    "answer": "B",
+    "explanation": "The line 'That time of year thou mayst in me behold, when yellow leaves...' describes autumn.",
+    "difficulty": "Easy",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q182"
+  },
+  {
+    "subject": "English Language I",
+    "question": "101. In this season the branches have ______ leaves.\n(i) few\n(ii) no",
+    "options": {
+      "A": "only (i)",
+      "B": "only (ii)",
+      "C": "either (i) or (ii)",
+      "D": "neither (i) nor (ii)"
+    },
+    "answer": "C",
+    "explanation": "The poem states 'When yellow leaves, or none, or few do hang', meaning either few or no leaves.",
+    "difficulty": "Medium",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q183"
+  },
+  {
+    "subject": "English Language I",
+    "question": "102. What did the branches of the trees enjoy earlier?",
+    "options": {
+      "A": "a ruined group of singers",
+      "B": "sweet songs of birds",
+      "C": "bright light of the sun",
+      "D": "darkness after the sunset"
+    },
+    "answer": "B",
+    "explanation": "The poem mentions: '...where late the sweet birds sang'.",
+    "difficulty": "Easy",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q184"
+  },
+  {
+    "subject": "English Language I",
+    "question": "103. What does ‘Death’s second self’ stand for?",
+    "options": {
+      "A": "sleep that gives rest",
+      "B": "a dying fire",
+      "C": "ashes of one’s youth",
+      "D": "setting sun"
+    },
+    "answer": "A",
+    "explanation": "In Shakespeare's Sonnet 73, night/sleep is referred to as 'Death's second self that seals up all in rest'.",
+    "difficulty": "Medium",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q185"
+  },
+  {
+    "subject": "English Language I",
+    "question": "104. ‘That on the ashes of his youth doth lie’,\nWhich figure of speech has been used in the underlined phrase?",
+    "options": {
+      "A": "Simile",
+      "B": "Metaphor",
+      "C": "Personification",
+      "D": "Alliteration"
+    },
+    "answer": "B",
+    "explanation": "'Ashes of his youth' directly compares faded youth to extinct ashes without using 'like' or 'as', making it a metaphor.",
+    "difficulty": "Medium",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q186"
+  },
+  {
+    "subject": "English Language I",
+    "question": "105. The theme of the poem is",
+    "options": {
+      "A": "the idea of death",
+      "B": "the change of seasons",
+      "C": "love",
+      "D": "songs of the birds"
+    },
+    "answer": "A",
+    "explanation": "The poet reflects on aging, mortality, and approaching death.",
+    "difficulty": "Medium",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q187"
+  },
+  {
+    "subject": "English Pedagogy",
+    "question": "106. What are the three components of PPP model of teaching?",
+    "options": {
+      "A": "Present – Practice – Produce",
+      "B": "Product – Practice – Present",
+      "C": "Pre-teaching – Practice teaching – Produce result",
+      "D": "Pre – conception – Practice by teacher – Post conception"
+    },
+    "answer": "A",
+    "explanation": "In ELT, PPP stands for Presentation, Practice, and Production.",
+    "difficulty": "Easy",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q188"
+  },
+  {
+    "subject": "English Pedagogy",
+    "question": "107. A teacher of class VIII discussed ‘determiners’ in her classroom through a short text in which determiners occur many times and learners were made to notice them in use. This was followed by learners using the same in their own language for particular purposes. Teacher then brought to the notice of the learners, the uses of determiners in contexts. What strategy did the teacher employ in her classroom?",
+    "options": {
+      "A": "Structured teaching",
+      "B": "Consciousness raising",
+      "C": "Task based language teaching",
+      "D": "Communicative language teaching"
+    },
+    "answer": "B",
+    "explanation": "Consciousness-raising tasks draw learners' attention to specific linguistic features in context to help them notice how grammar works.",
+    "difficulty": "Medium",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q189"
+  },
+  {
+    "subject": "English Pedagogy",
+    "question": "108. A teacher found some of the aspects of language learning e.g. reading with understanding a text on scientific concepts. She decided to pick students who find it difficult on the particular aspects. She took separate session for them to support them read and understand such text. What is she trying to do here?",
+    "options": {
+      "A": "Remedial teaching",
+      "B": "Higher Order skills",
+      "C": "Thinking skills",
+      "D": "Feedback teaching"
+    },
+    "answer": "A",
+    "explanation": "Remedial teaching targets specific learning gaps and provides targeted support to struggling students.",
+    "difficulty": "Easy",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q190"
+  },
+  {
+    "subject": "English Pedagogy",
+    "question": "109. A teacher wanted her students to learn vocabulary effectively. Which of the following ways should she adopt to teach vocabulary in her classroom?",
+    "options": {
+      "A": "Write all the new words on the blackboard and write their meanings in the language of teaching.",
+      "B": "Ask her learners to underline the difficult words in a lesson and find their meanings in their language,",
+      "C": "Ask them to find the meanings of the words in the dictionary.",
+      "D": "Ask them to group the words into meaningful categories and use them in real life purposes."
+    },
+    "answer": "D",
+    "explanation": "Categorizing vocabulary meaningfully and applying it in real-life contexts supports retention and functional language use.",
+    "difficulty": "Easy",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q191"
+  },
+  {
+    "subject": "English Pedagogy",
+    "question": "110. A reader gets the hints based on sound-symbol correspondences to decode and comprehend the text. What is this known as?",
+    "options": {
+      "A": "Graphic cues",
+      "B": "Graphophonic cues",
+      "C": "Metalinguistic cues",
+      "D": "Syntactic cues"
+    },
+    "answer": "B",
+    "explanation": "Graphophonic cues relate to sound-letter relationships that aid word decoding during reading.",
+    "difficulty": "Medium",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q192"
+  },
+  {
+    "subject": "English Pedagogy",
+    "question": "111. India’s language-in-education policy is known as ________.",
+    "options": {
+      "A": "National language formula",
+      "B": "Three language formula",
+      "C": "Language in education",
+      "D": "Official language policy"
+    },
+    "answer": "B",
+    "explanation": "India's language policy in school education is officially titled the Three-Language Formula.",
+    "difficulty": "Easy",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q193"
+  },
+  {
+    "subject": "English Pedagogy",
+    "question": "112. What is the following activity known as in vocabulary learning?\nFind words which can befriend the word ‘rain’. e.g. heavy rain.",
+    "options": {
+      "A": "Collocation",
+      "B": "Phrase",
+      "C": "Word groups",
+      "D": "Word web"
+    },
+    "answer": "A",
+    "explanation": "Collocation refers to words that naturally co-occur together frequently (e.g., 'heavy rain', 'torrential rain').",
+    "difficulty": "Easy",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q194"
+  },
+  {
+    "subject": "English Pedagogy",
+    "question": "113. A teacher asks her learners to join sentences to make a short paragraph, inserting supplied connectors and coherence markers like (but, and, however, because, although, etc.) What is this approach to writing known as?",
+    "options": {
+      "A": "Control composition",
+      "B": "Controlled-to-free writing approach",
+      "C": "Free-writing approach",
+      "D": "Communicative approach"
+    },
+    "answer": "B",
+    "explanation": "Guiding students with specific structural prompt/connectors before moving toward open expression is a controlled-to-free writing technique.",
+    "difficulty": "Medium",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q195"
+  },
+  {
+    "subject": "English Pedagogy",
+    "question": "114. An assessment done at the end of six months of one term is ________.",
+    "options": {
+      "A": "Summative assessment",
+      "B": "Formative assessment",
+      "C": "Semester assessment",
+      "D": "Remedial assessment"
+    },
+    "answer": "A",
+    "explanation": "Term-end examinations evaluate overall cumulative achievement and constitute summative assessment.",
+    "difficulty": "Easy",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q196"
+  },
+  {
+    "subject": "English Pedagogy",
+    "question": "115. A teacher asks her learners of class VIII to read a novel by an Indian author and asks them to write an essay giving their views on the novel. What is this known as a reading activity?",
+    "options": {
+      "A": "Intensive reading",
+      "B": "Extensive reading",
+      "C": "Reading for information",
+      "D": "Scanning"
+    },
+    "answer": "B",
+    "explanation": "Reading longer texts/novels for global understanding and pleasure is extensive reading.",
+    "difficulty": "Easy",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q197"
+  },
+  {
+    "subject": "English Pedagogy",
+    "question": "116. A teacher selected a text from a newspaper and dropped every fifth word and asked her learners to supply the missing words. What is a test known as?",
+    "options": {
+      "A": "A cloze test",
+      "B": "Fill in the blanks",
+      "C": "Complete the comprehensible paragraph",
+      "D": "Writing test"
+    },
+    "answer": "A",
+    "explanation": "A passage where words are systematically deleted at regular intervals (e.g., every 5th or 7th word) for students to fill in is a Cloze Test.",
+    "difficulty": "Easy",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q198"
+  },
+  {
+    "subject": "English Pedagogy",
+    "question": "117. Multilingualism as a strategy is",
+    "options": {
+      "A": "using the languages of learners for teaching-learning of languages and content subjects.",
+      "B": "teaching-learning of at least three languages and content in mother tongue.",
+      "C": "teaching of all subjects in English medium and teaching Indian languages as a language.",
+      "D": "teaching of a foreign language along with Indian languages through the medium of the state language."
+    },
+    "answer": "A",
+    "explanation": "Using students' native languages as medium/resources for subject and language learning defines multilingualism as a classroom strategy.",
+    "difficulty": "Easy",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q199"
+  },
+  {
+    "subject": "English Pedagogy",
+    "question": "118. Denotative meaning of a word is _________.",
+    "options": {
+      "A": "factual meaning or basic meaning",
+      "B": "much more than what a word actually means",
+      "C": "figurative meaning",
+      "D": "grammatical meaning"
+    },
+    "answer": "A",
+    "explanation": "Denotation is the explicit, literal, or dictionary meaning of a word.",
+    "difficulty": "Easy",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q200"
+  },
+  {
+    "subject": "English Pedagogy",
+    "question": "119. ‘We acquire ... language by understanding input that is a little beyond our current level of (acquired) competence.’ What is this pedagogical concept known as?",
+    "options": {
+      "A": "Output hypothesis",
+      "B": "Interaction hypothesis",
+      "C": "Input hypothesis",
+      "D": "Thinking hypothesis"
+    },
+    "answer": "C",
+    "explanation": "Stephen Krashen's Input Hypothesis (i+1) states that language acquisition occurs when learners receive comprehensible input slightly above their current proficiency.",
+    "difficulty": "Medium",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q201"
+  },
+  {
+    "subject": "English Pedagogy",
+    "question": "120. What is the status given to English by the Indian Constitution?",
+    "options": {
+      "A": "Official Language",
+      "B": "Associate Official Language",
+      "C": "National Language",
+      "D": "Link Language"
+    },
+    "answer": "B",
+    "explanation": "Under the Official Languages Act (1963), English holds the status of Associate Official Language of India.",
+    "difficulty": "Easy",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q202"
+  },
+  {
+    "subject": "Hindi Language I",
+    "question": "91. शिक्षक के उत्तर से उसके बारे में धारणा बनती है कि वह -",
+    "options": {
+      "A": "सत्यवादी था",
+      "B": "प्रेरक था",
+      "C": "कठोर था",
+      "D": "हितैषी था"
+    },
+    "answer": "C",
+    "explanation": "गद्यांश में शिक्षक द्वारा व्यंग्य करने और बालिका की दिव्यांगता का उपहास उड़ाने से पता चलता है कि वह कठोर था।",
+    "difficulty": "Easy",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q203"
+  },
+  {
+    "subject": "Hindi Language I",
+    "question": "92. लड़की के अनुसार सब कुछ संभव है, यदि हो -",
+    "options": {
+      "A": "सच्ची प्रेरणा और अच्छा प्रशिक्षक",
+      "B": "सच्ची लगन और ऊँचा इरादा",
+      "C": "कठोर परिश्रम और सबल शरीर",
+      "D": "बुलंद हौसला और ईश्वर की कृपा"
+    },
+    "answer": "B",
+    "explanation": "गद्यांश में लड़की कहती है: 'अगर लगन सच्ची और इरादे बुलंद हों, तो सब कुछ संभव है।'",
+    "difficulty": "Easy",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q204"
+  },
+  {
+    "subject": "Hindi Language I",
+    "question": "93. गद्यांश में निहित मुख्य संदेश है -",
+    "options": {
+      "A": "किसी का मज़ाक उड़ाना ठीक नहीं",
+      "B": "शिक्षक को दयालु होना चाहिए",
+      "C": "सफलता के लिए लगन और परिश्रम आवश्यक है",
+      "D": "शारीरिक अक्षमता वाले लोगों को अधिक परिश्रम करना पड़ता है"
+    },
+    "answer": "C",
+    "explanation": "विल्मा रुडोल्फ की यह कहानी सिखाती है कि सच्ची लगन, दृढ़ निश्चय और निरंतर परिश्रम से सफलता प्राप्त की जा सकती है।",
+    "difficulty": "Easy",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q205"
+  },
+  {
+    "subject": "Hindi Language I",
+    "question": "94. ‘आश्चर्य-चकित’ का विग्रह होगा -",
+    "options": {
+      "A": "आश्चर्य में चकित",
+      "B": "आश्चर्य और चकित",
+      "C": "आश्चर्य से चकित",
+      "D": "आश्चर्य है जो चकित"
+    },
+    "answer": "C",
+    "explanation": "'आश्चर्य-चकित' का सही तत्पुरुष समास विग्रह 'आश्चर्य से चकित' (करण तत्पुरुष) होता है।",
+    "difficulty": "Medium",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q206"
+  },
+  {
+    "subject": "Hindi Language I",
+    "question": "95. ‘व्यंग्य किया’ का सबसे उपयुक्त अर्थ होगा -",
+    "options": {
+      "A": "उपहास किया",
+      "B": "निकाल दिया",
+      "C": "डाँट लगाई",
+      "D": "ताना मारा"
+    },
+    "answer": "A",
+    "explanation": "कक्षा के संदर्भ में शिक्षक द्वारा 'व्यंग्य किया' का अर्थ बालिका की स्थिति का मज़ाक उड़ाना यानी उपहास करना है।",
+    "difficulty": "Medium",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q207"
+  },
+  {
+    "subject": "Hindi Language I",
+    "question": "96. ‘पौष्टिक खुराक’ में दोनों शब्द हैं, क्रमशः -",
+    "options": {
+      "A": "तत्सम – तद्भव",
+      "B": "तद्भव – तत्सम",
+      "C": "देशज – आगत",
+      "D": "तत्सम – आगत"
+    },
+    "answer": "D",
+    "explanation": "'पौष्टिक' संस्कृत मूल का तत्सम शब्द है, जबकि 'खुराक' फ़ारसी मूल का विदेशी/आगत शब्द है।",
+    "difficulty": "Medium",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q208"
+  },
+  {
+    "subject": "Hindi Language I",
+    "question": "97. ‘तुम्हें कौन-सी खेलों में भाग लेना है .......’ भावार्थ की दृष्टि से देखें तो उपयुक्त वाक्य है -",
+    "options": {
+      "A": "निषेधार्थक वाक्य",
+      "B": "विस्मयार्थक वाक्य",
+      "C": "प्रश्नावचक वाक्य",
+      "D": "विधानार्थक वाक्य"
+    },
+    "answer": "A",
+    "explanation": "कथन का व्यंग्यात्मक भाव 'तुम खेल नहीं सकती' का निषेध प्रकट करता है।",
+    "difficulty": "Hard",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q209"
+  },
+  {
+    "subject": "Hindi Language I",
+    "question": "98. लड़की के सवाल पूछने पर छात्र हँस पड़े, क्योंकि लड़की -",
+    "options": {
+      "A": "खेलना नहीं जानती थी",
+      "B": "खेल नहीं सकती थी",
+      "C": "खेलना नहीं चाहती थी",
+      "D": "बहुत छोटी थी"
+    },
+    "answer": "B",
+    "explanation": "पोलियो से ग्रस्त होने के कारण वह ठीक से खड़ी नहीं हो सकती थी, इसलिए उसके ओलंपिक रिकॉर्ड के सवाल पर बच्चे हँसे।",
+    "difficulty": "Easy",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q210"
+  },
+  {
+    "subject": "Hindi Language I",
+    "question": "99. आपके विचार से लड़की को सफलता की सबसे बड़ी प्रेरणा किसने दी?",
+    "options": {
+      "A": "उसके शिक्षक ने",
+      "B": "उसके सहपाठियों ने",
+      "C": "उसकी माँ ने",
+      "D": "उसके प्रशिक्षक ने"
+    },
+    "answer": "C",
+    "explanation": "गद्यांश में माँ ने उसे प्रेरित करते हुए कहा, 'तुम कुछ भी कर सकती हो, इस संसार में नामुमकिन कुछ भी नहीं है।'",
+    "difficulty": "Easy",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q211"
+  },
+  {
+    "subject": "Hindi Language I",
+    "question": "100. दिशाएँ कवि को क्यों बुला रही हैं?",
+    "options": {
+      "A": "कविता पाठ करने के लिए",
+      "B": "अनजान रास्तों से बचने के लिए",
+      "C": "संदेह दूर करने के लिए",
+      "D": "सफलता प्राप्त करने के लिए"
+    },
+    "answer": "D",
+    "explanation": "कविता की पंक्तियाँ 'दिशाएँ निमंत्रण मुझे दे रही हैं, सफलता का यह द्वार मेरे लिए है' दर्शाती हैं कि सफलता प्राप्त करने के लिए बुला रही हैं।",
+    "difficulty": "Easy",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q212"
+  },
+  {
+    "subject": "Hindi Language I",
+    "question": "101. कवि को अपनी सफलता पर अटल विश्वास क्यों है?",
+    "options": {
+      "A": "उसे कोई रुकावट नहीं दिखाई देती",
+      "B": "दिशाएँ उसे बुला रही हैं",
+      "C": "उसे रोक-टोक करने वाला कोई नहीं है",
+      "D": "सफलता पाना बहुत सरल है"
+    },
+    "answer": "A",
+    "explanation": "कविता में 'न अवरोध कोई न बाधा कहीं है... अटल एक विश्वास मन में भरा है' से स्पष्ट है।",
+    "difficulty": "Medium",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q213"
+  },
+  {
+    "subject": "Hindi Language I",
+    "question": "102. किस पंक्ति से प्रतीत होता है कि कवि का व्यक्तित्व बदल गया है?",
+    "options": {
+      "A": "अटल एक विश्वास मन में भरा है",
+      "B": "अजानी हवा में बहे जा रहा हूँ",
+      "C": "नहीं कुछ यहाँ जो मुझे रोक पाए",
+      "D": "मुझे आज लगता कि मैं वह नहीं हूँ"
+    },
+    "answer": "D",
+    "explanation": "पंक्ति 'मुझे आज लगता कि मैं वह नहीं हूँ' व्यक्तित्व परिवर्तन को स्पष्ट रूप से दर्शाती है।",
+    "difficulty": "Easy",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q214"
+  },
+  {
+    "subject": "Hindi Language I",
+    "question": "103. व्याकरण की दृष्टि से ‘इंद्रधनुषी’ शब्द है -",
+    "options": {
+      "A": "संज्ञा",
+      "B": "सर्वनाम",
+      "C": "विशेषण",
+      "D": "क्रियाविशेषण"
+    },
+    "answer": "C",
+    "explanation": "'इंद्रधनुषी' (जैसे 'इंद्रधनुषी दिशाएँ') गुणवाचक विशेषण है जो संज्ञा की विशेषता बताता है।",
+    "difficulty": "Easy",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q215"
+  },
+  {
+    "subject": "Hindi Language I",
+    "question": "104. अर्थ की दृष्टि से शेष से भिन्न शब्द को पहचानिए -",
+    "options": {
+      "A": "डगर",
+      "B": "अवरोध",
+      "C": "व्यवधान",
+      "D": "बाधा"
+    },
+    "answer": "A",
+    "explanation": "'डगर' का अर्थ रास्ता है, जबकि 'अवरोध', 'व्यवधान', और 'बाधा' तीनों का अर्थ रुकावट है।",
+    "difficulty": "Easy",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q216"
+  },
+  {
+    "subject": "Hindi Language I",
+    "question": "105. कविता का केंद्रीय स्वर है -",
+    "options": {
+      "A": "उत्साह और आत्मविश्वास",
+      "B": "बाधाएँ और विघ्न",
+      "C": "सुनसानी और अनजानापन",
+      "D": "कर्म और प्रेरणा"
+    },
+    "answer": "A",
+    "explanation": "पूरी कविता में कवि का उत्साह, लक्ष्य के प्रति समर्पण और अटूट आत्मविश्वास व्यक्त हुआ है।",
+    "difficulty": "Easy",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q217"
+  },
+  {
+    "subject": "Hindi Pedagogy",
+    "question": "106. गद्य शिक्षण में अपेक्षित नहीं है –",
+    "options": {
+      "A": "भाषा की बारीकियाँ समझना",
+      "B": "कल्पनाशीलता का विकास",
+      "C": "तार्किक शक्ति का विकास",
+      "D": "अनुकरण क्षमता का विकास"
+    },
+    "answer": "D",
+    "explanation": "गद्य शिक्षण का उद्देश्य भाषा-बोध, तार्किकता और कल्पनाशीलता बढ़ाना है, न कि केवल अनुकरण क्षमता का विकास।",
+    "difficulty": "Medium",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q218"
+  },
+  {
+    "subject": "Hindi Pedagogy",
+    "question": "107. हिंदी भाषा की पाठ्य-पुस्तकों में हिंदीतर भाषाओं की रचनाओं को भी स्थान मिलना चाहिए ताकि -",
+    "options": {
+      "A": "बच्चों को हिंदीतर रचनाकारों की जानकारी मिल जाए",
+      "B": "बच्चे हिंदीतर रचनाओं की भाषिक विशेषताओं से परिचित हो सकें",
+      "C": "बच्चे हिंदीतर भाषाओं पर अपनी पकड़ बना सकें",
+      "D": "बच्चे हिंदीतर भाषाओं के व्याकरण से परिचित हो सकें"
+    },
+    "answer": "B",
+    "explanation": "हिंदीतर भाषा की रचनाएँ शामिल करने से विद्यार्थी अन्य भारतीय भाषाओं की विविध भाषिक विशेषताओं और संस्कृतियों से परिचित होते हैं।",
+    "difficulty": "Medium",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q219"
+  },
+  {
+    "subject": "Hindi Pedagogy",
+    "question": "108. उच्च प्राथमिक स्तर पर हिंदी भाषा शिक्षण का एक महत्वपूर्ण उद्देश्य है -",
+    "options": {
+      "A": "हिंदी भाषा की नियमबद्ध प्रकृति को पहचानना",
+      "B": "हिंदी भाषा के व्याकरण को कंठस्थ करना",
+      "C": "हिंदी भाषा के प्रसिद्ध रचनाकारों को जानना",
+      "D": "हिंदी भाषा की प्रसिद्ध रचनाओं को जानना"
+    },
+    "answer": "A",
+    "explanation": "उच्च प्राथमिक स्तर पर भाषा की संरचना और उसकी नियमबद्ध प्रकृति की समझ व विश्लेषण विकसित करना मुख्य उद्देश्य है।",
+    "difficulty": "Easy",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q220"
+  },
+  {
+    "subject": "Hindi Pedagogy",
+    "question": "109. भाषण, परिचर्चा, संवाद, बच्चों की _____ क्षमता का विकास करने में सहायक हैं।",
+    "options": {
+      "A": "लिखित अभिव्यक्ति",
+      "B": "मौखिक अभिव्यक्ति",
+      "C": "कल्पनाशीलता",
+      "D": "अनुकरण"
+    },
+    "answer": "B",
+    "explanation": "भाषण, वाद-विवाद व परिचर्चा जैसे मौखिक कार्य विद्यार्थियों की मौखिक अभिव्यक्ति क्षमता को सुदृढ़ बनाते हैं।",
+    "difficulty": "Easy",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q221"
+  },
+  {
+    "subject": "Hindi Pedagogy",
+    "question": "110. गद्य रचना को पद्य में रूपांतरित करना और पद्य को गद्य में रूपांतरित करना _____ में मदद करता है।",
+    "options": {
+      "A": "साहित्य के सर्वोत्कृष्ट सृजन",
+      "B": "अभ्यास-प्रश्नों को गढ़ने",
+      "C": "भाषायी संरचनाओं पर अधिकार",
+      "D": "भाषा-व्याकरण पर अधिकार"
+    },
+    "answer": "C",
+    "explanation": "विधा-परिवर्तन (गद्य से पद्य और पद्य से गद्य) से छात्रों का भाषायी संरचनाओं एवं अभिव्यक्तियों पर स्वामित्व बढ़ता है।",
+    "difficulty": "Medium",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q222"
+  },
+  {
+    "subject": "Hindi Pedagogy",
+    "question": "111. आठवीं कक्षा में हिंदी भाषा सीखने-सिखाने के लिए आप किस सामग्री को सर्वाधिक महत्व देंगे?",
+    "options": {
+      "A": "पाठ्य-पुस्तक",
+      "B": "साहित्यिक सामग्री",
+      "C": "व्याकरण की पुस्तक",
+      "D": "पोस्टर"
+    },
+    "answer": "B",
+    "explanation": "आठवीं कक्षा के स्तर पर प्रमाणिक साहित्यिक सामग्री बच्चों में उच्च स्तरीय भाषायी समझ और पठन-रुचि का विकास करती है।",
+    "difficulty": "Easy",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q223"
+  },
+  {
+    "subject": "Hindi Pedagogy",
+    "question": "112. आप छठी कक्षा के बच्चों के लिए हिंदी भाषा सीखने-सिखाने की किस पद्धति का समर्थन करेंगे?",
+    "options": {
+      "A": "जिसमें बच्चों को बोलने के अवसर मिलें",
+      "B": "जिसमें बच्चों को पाठ्य-पुस्तक बिल्कुल न पढ़नी हो",
+      "C": "जिसमें बच्चे परस्पर अंतः क्रिया करते हैं",
+      "D": "जिसमें बच्चे केवल लेखन कार्य करते हैं"
+    },
+    "answer": "C",
+    "explanation": "वाइगोत्स्की के अनुसार परस्पर सामाजिक अंतःक्रिया भाषा सीखने का सबसे प्रभावी माध्यम है।",
+    "difficulty": "Easy",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q224"
+  },
+  {
+    "subject": "Hindi Pedagogy",
+    "question": "113. त्रिभाषा सूत्र के अनुसार स्कूल में पहली भाषा जो पढ़ाई जाए वह _____ हो या _____ भाषा।",
+    "options": {
+      "A": "मातृभाषा, क्षेत्रीय",
+      "B": "मातृभाषा, हिंदी",
+      "C": "हिंदी, अंग्रेजी",
+      "D": "अंग्रेजी, विदेशी"
+    },
+    "answer": "A",
+    "explanation": "त्रिभाषा सूत्र के अनुसार प्राथमिक/आरंभिक स्तर पर पहली भाषा बच्चे की मातृभाषा या क्षेत्रीय भाषा होनी चाहिए।",
+    "difficulty": "Easy",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q225"
+  },
+  {
+    "subject": "Hindi Pedagogy",
+    "question": "114. व्याकरण पढ़ाने की आगमन विधि _____ पर सर्वाधिक बल देती है।",
+    "options": {
+      "A": "नियमों",
+      "B": "परिभाषा",
+      "C": "उदाहरणों",
+      "D": "मानकता"
+    },
+    "answer": "C",
+    "explanation": "आगमन विधि (Inductive Method) में पहले उदाहरण प्रस्तुत किए जाते हैं और फिर सामान्य नियम निकाले जाते हैं।",
+    "difficulty": "Easy",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q226"
+  },
+  {
+    "subject": "Hindi Pedagogy",
+    "question": "115. भाषा के संदर्भ में संचार माध्यमों का प्रयोग न केवल सामाजिक संवेदनाएँ विकसित करता है बल्कि _____ को समझने में मदद करता है।",
+    "options": {
+      "A": "विभिन्न माध्यमों की जानकारी",
+      "B": "विभिन्न माध्यमों में प्रयुक्त भाषा",
+      "C": "विभिन्न माध्यमों के उपयोग",
+      "D": "विभिन्न माध्यमों की आर्थिक स्थिति"
+    },
+    "answer": "B",
+    "explanation": "विभिन्न संचार माध्यम (समाचार पत्र, टीवी, इंटरनेट आदि) बच्चों को वास्तविक जीवन में प्रयुक्त होने वाली भाषा के विविध रूपों को समझने में मदद करते हैं।",
+    "difficulty": "Medium",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q227"
+  },
+  {
+    "subject": "Hindi Pedagogy",
+    "question": "116. कहानियों की विभिन्न शैलियों पर की गई चर्चा बच्चों को _____ में मदद करती है।",
+    "options": {
+      "A": "व्याकरण समझने",
+      "B": "कहानियाँ रचने",
+      "C": "कहानी के तत्वों को याद करने",
+      "D": "कहानियों की कमियाँ बताने"
+    },
+    "answer": "B",
+    "explanation": "विभिन्न शैली-शिल्प की समझ बालकों को अपनी मौलिक रचनात्मकता से नई कहानियाँ रचने में समर्थ बनाती है।",
+    "difficulty": "Medium",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q228"
+  },
+  {
+    "subject": "Hindi Pedagogy",
+    "question": "117. संदर्भ में व्याकरण किस पर बल देता है?",
+    "options": {
+      "A": "पाठ के अंत में समस्त व्याकरणिक बिंदुओं को स्पष्ट करने पर",
+      "B": "पाठ के दौरान आए समस्त व्याकरणिक बिंदुओं की परिभाषा बताने पर",
+      "C": "पाठ के अंत में दिए समस्त भाषा-अभ्यास को पूर्ण करवाने पर",
+      "D": "पाठ पढ़ाते समय प्रसंगवश आने वाले व्याकरणिक बिंदुओं को स्पष्ट करने पर"
+    },
+    "answer": "D",
+    "explanation": "संदर्भ में व्याकरण (Grammar in Context) का अर्थ है पाठ या प्रसंग के दौरान स्वाभाविक रूप से आने वाले व्याकरणिक नियमों को समझाना।",
+    "difficulty": "Easy",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q229"
+  },
+  {
+    "subject": "Hindi Pedagogy",
+    "question": "118. प्रत्येक भाषा शिक्षक को इस बात की जानकारी जरूर होनी चाहिए कि उसकी कक्षा के बच्चों की _____ पृष्ठभूमि क्या है।",
+    "options": {
+      "A": "आर्थिक व सामाजिक",
+      "B": "सामाजिक व व्यावसायिक",
+      "C": "भाषिक व सांस्कृतिक",
+      "D": "सांस्कृतिक व आर्थिक"
+    },
+    "answer": "C",
+    "explanation": "शिक्षक के लिए बच्चों की भाषिक और सांस्कृतिक पृष्ठभूमि की जानकारी बहुभाषिक शिक्षण रणनीति बनाने हेतु अनिवार्य है।",
+    "difficulty": "Easy",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q230"
+  },
+  {
+    "subject": "Hindi Pedagogy",
+    "question": "119. सातवीं कक्षा में पढ़ाने वाले ऋषभ ने बच्चों को ‘जल संरक्षण’ पर आधारित सरकार द्वारा जारी पोस्टर दिखाया और चर्चा की। ऋषभ द्वारा प्रयुक्त सामग्री है",
+    "options": {
+      "A": "अनुपयोगी",
+      "B": "मनोरंजक",
+      "C": "कृत्रिम",
+      "D": "प्रामाणिक"
+    },
+    "answer": "D",
+    "explanation": "वास्तविक जीवन और सरकारी विभागों द्वारा जनहित में जारी पोस्टर प्रामाणिक सामग्री (Authentic Material) कहलाते हैं।",
+    "difficulty": "Easy",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q231"
+  },
+  {
+    "subject": "Hindi Pedagogy",
+    "question": "120. कविता-शिक्षण के समय शिक्षक द्वारा ऐसे प्रश्नोत्तर पर बल देना चाहिए -",
+    "options": {
+      "A": "जिनके उत्तर सरल हों",
+      "B": "जिनके उत्तर विभिन्न हों",
+      "C": "जिनका एक ही उत्तर हो",
+      "D": "जिनका उत्तर पुस्तक में दिया हो"
+    },
+    "answer": "B",
+    "explanation": "कविता भावप्रधान होती है; अतः ऐसे मुक्त अंत वाले (divergent) प्रश्नों पर बल देना चाहिए जिनके उत्तर बच्चे अपनी कल्पना से अलग-अलग दे सकें।",
+    "difficulty": "Easy",
+    "year_and_paper": "CTET Jan 2021 Paper II",
+    "id": "q232"
+  },
+  {
+    "subject": "Child Development and Pedagogy",
+    "topic": "Child Development",
+    "questionText": "During the period of childhood, development –",
+    "options": {
+      "1": "is slow and cannot be measured.",
+      "2": "is multi-layered and complex.",
+      "3": "consists only of quantitative changes.",
+      "4": "is disorderly and disjointed."
+    },
+    "correctAnswer": "2",
+    "explanation": "Childhood development is a multi-dimensional, multi-layered, and complex process involving physical, cognitive, social, and emotional changes.",
+    "difficulty": "Medium",
+    "year_and_paper": "2018 paper2",
+    "source": "PDF Import",
+    "importedAt": "2026-08-01T08:09:24.759Z",
+    "id": "q233_1785571764764"
+  },
+  {
+    "subject": "Child Development and Pedagogy",
+    "topic": "Vygotsky's ZPD",
+    "questionText": "'Zone of proximal development' is",
+    "options": {
+      "1": "the area between a child’s current level of independent performance and the level of performance that the child could achieve with the help of adults and more skilled peers.",
+      "2": "a range of tasks that the child should be able to do as per her age but cannot.",
+      "3": "the process where two individuals who begin with different understandings arrive at a shared understanding.",
+      "4": "the process in which children learn to perform tasks as set by the elder members in a society."
+    },
+    "correctAnswer": "1",
+    "explanation": "Vygotsky defined ZPD as the distance between actual developmental level determined by independent problem solving and the level of potential development under guidance.",
+    "difficulty": "Easy",
+    "year_and_paper": "2018 paper2",
+    "source": "PDF Import",
+    "importedAt": "2026-08-01T08:09:24.768Z",
+    "id": "q234_1785571764775"
+  },
+  {
+    "subject": "Child Development and Pedagogy",
+    "topic": "Piaget's Theory of Cognitive Development",
+    "questionText": "According to Jean Piaget, children in formal operational stage",
+    "options": {
+      "1": "are capable of hypothetico-deductive reasoning and propositional thought.",
+      "2": "are bound by centration and irreversibility of thought.",
+      "3": "cannot conserve, classify and seriate.",
+      "4": "begin to engage in make-believe and symbolic play."
+    },
+    "correctAnswer": "1",
+    "explanation": "In the formal operational stage (11+ years), individuals develop abstract, systematic, and scientific thinking, including hypothetico-deductive reasoning.",
+    "difficulty": "Medium",
+    "year_and_paper": "2018 paper2",
+    "source": "PDF Import",
+    "importedAt": "2026-08-01T08:09:24.782Z",
+    "id": "q235_1785571764788"
+  },
+  {
+    "subject": "Child Development and Pedagogy",
+    "topic": "Kohlberg's Moral Development",
+    "questionText": "At which stage of Lawrence Kohlberg’s theory of moral development do individuals believe that actively maintaining the current social system ensures positive human relationships and societal order ?",
+    "options": {
+      "1": "The punishment and obedience orientation",
+      "2": "The social-order maintaining orientation",
+      "3": "The instrumental purpose orientation",
+      "4": "The universal ethical principle orientation"
+    },
+    "correctAnswer": "2",
+    "explanation": "In Stage 4 (Social-order maintaining orientation), moral judgments are based on understanding and maintaining social order, law, duty, and social rules.",
+    "difficulty": "Medium",
+    "year_and_paper": "2018 paper2",
+    "source": "PDF Import",
+    "importedAt": "2026-08-01T08:09:24.791Z",
+    "id": "q236_1785571764796"
+  },
+  {
+    "subject": "Child Development and Pedagogy",
+    "topic": "Gardner's Multiple Intelligences",
+    "questionText": "Which of the following is a correctly matched pair of type of intelligence and end-state performance possibilities as per Howard Gardner’s theory of multiple intelligences ?",
+    "options": {
+      "1": "Spatial – Therapist",
+      "2": "Intra-personal – Salesperson",
+      "3": "Linguistic – Sculptor",
+      "4": "Bodily-kinesthetic – Athlete"
+    },
+    "correctAnswer": "4",
+    "explanation": "Bodily-kinesthetic intelligence involves the ability to manipulate objects and use a variety of physical skills, which is typical for athletes, dancers, and surgeons.",
+    "difficulty": "Easy",
+    "year_and_paper": "2018 paper2",
+    "source": "PDF Import",
+    "importedAt": "2026-08-01T08:09:24.799Z",
+    "id": "q237_1785571764806"
+  },
+  {
+    "subject": "Child Development and Pedagogy",
+    "topic": "Vygotsky's Sociocultural Theory",
+    "questionText": "According to Lev Vygotsky –",
+    "options": {
+      "1": "language plays an important role in cognitive development of children.",
+      "2": "children learn language through a 'language acquisition device'.",
+      "3": "children’s cognitive development occurs in stages.",
+      "4": "maturation of schemas leads to cognitive development in children."
+    },
+    "correctAnswer": "1",
+    "explanation": "Vygotsky emphasized that language is a primary tool for thought and plays a pivotal role in cognitive development.",
+    "difficulty": "Easy",
+    "year_and_paper": "2018 paper2",
+    "source": "PDF Import",
+    "importedAt": "2026-08-01T08:09:24.812Z",
+    "id": "q238_1785571764815"
+  },
+  {
+    "subject": "Child Development and Pedagogy",
+    "topic": "Progressive Education and Assessment",
+    "questionText": "In a progressive classroom, assessment of learners during the process of teaching-learning –",
+    "options": {
+      "1": "is not at all helpful in children’s learning.",
+      "2": "creates a hindrance in the process of children’s learning.",
+      "3": "is helpful in identifying 'high', 'low' and 'non' achievers for the purposes of giving feedback to the parents.",
+      "4": "is very important since it gives insights into children’s understanding and helps the teacher to reflects on her pedagogy."
+    },
+    "correctAnswer": "4",
+    "explanation": "Formative assessment during instruction helps teachers reflect on their teaching methods and understand student learning needs.",
+    "difficulty": "Medium",
+    "year_and_paper": "2018 paper2",
+    "source": "PDF Import",
+    "importedAt": "2026-08-01T08:09:24.818Z",
+    "id": "q239_1785571764822"
+  },
+  {
+    "subject": "Child Development and Pedagogy",
+    "topic": "Gender Issues",
+    "questionText": "An effective classroom strategy to reduce gender stereotyping and broadening developmental possibilities for all sexes is",
+    "options": {
+      "1": "to ignore and dismiss biological differences among the sexes.",
+      "2": "to reinforce gender roles as portrayed in the society.",
+      "3": "forming same-sex ability groupings.",
+      "4": "forming mixed-sex activity groups and promote discussion."
+    },
+    "correctAnswer": "4",
+    "explanation": "Forming mixed-sex groups and encouraging open discussions breaks traditional gender roles and biases.",
+    "difficulty": "Easy",
+    "year_and_paper": "2018 paper2",
+    "source": "PDF Import",
+    "importedAt": "2026-08-01T08:09:24.825Z",
+    "id": "q240_1785571764828"
+  },
+  {
+    "subject": "Child Development and Pedagogy",
+    "topic": "Multilingualism",
+    "questionText": "Multilingualism in a classroom needs to be understood as _________ by the teachers.",
+    "options": {
+      "1": "an asset and resource",
+      "2": "a hindrance",
+      "3": "a problem",
+      "4": "a systemic issue"
+    },
+    "correctAnswer": "1",
+    "explanation": "Multilingualism is viewed as a resource that enriches classroom interactions and enhances cognitive flexibility.",
+    "difficulty": "Easy",
+    "year_and_paper": "2018 paper2",
+    "source": "PDF Import",
+    "importedAt": "2026-08-01T08:09:24.832Z",
+    "id": "q241_1785571764836"
+  },
+  {
+    "subject": "Child Development and Pedagogy",
+    "topic": "Child-Centered Education",
+    "questionText": "A child-centered classroom is one in which",
+    "options": {
+      "1": "the teacher uses the textbook as the only source of knowledge.",
+      "2": "the teacher segregates the children based on their abilities.",
+      "3": "the teacher uses rewards and punishments to direct children’s behaviour.",
+      "4": "the teacher is flexible and caters to needs of individual children."
+    },
+    "correctAnswer": "4",
+    "explanation": "Child-centered classrooms focus on individual differences and adapt strategies according to students' needs and interests.",
+    "difficulty": "Easy",
+    "year_and_paper": "2018 paper2",
+    "source": "PDF Import",
+    "importedAt": "2026-08-01T08:09:24.840Z",
+    "id": "q242_1785571764846"
+  },
+  {
+    "subject": "Child Development and Pedagogy",
+    "topic": "Vygotsky's Theory",
+    "questionText": "According to which theorist 'cultural tools' play an important role in cognitive development of children ?",
+    "options": {
+      "1": "Lev Vygotsky",
+      "2": "Jean Piaget",
+      "3": "Albert Bandura",
+      "4": "B.F. Skinner"
+    },
+    "correctAnswer": "1",
+    "explanation": "Lev Vygotsky emphasized that cultural tools (maps, symbols, language) shape cognitive functioning.",
+    "difficulty": "Easy",
+    "year_and_paper": "2018 paper2",
+    "source": "PDF Import",
+    "importedAt": "2026-08-01T08:09:24.850Z",
+    "id": "q243_1785571764854"
+  },
+  {
+    "subject": "Child Development and Pedagogy",
+    "topic": "Inclusive Education",
+    "questionText": "Which of the following is NOT a suitable learning material for students who are partially sighted ?",
+    "options": {
+      "1": "Large-print books",
+      "2": "Three dimensional maps and charts",
+      "3": "Talking books, felt bulletin boards",
+      "4": "Small-print worksheets"
+    },
+    "correctAnswer": "4",
+    "explanation": "Small-print worksheets create strain and accessibility barriers for students with partial vision.",
+    "difficulty": "Easy",
+    "year_and_paper": "2018 paper2",
+    "source": "PDF Import",
+    "importedAt": "2026-08-01T08:09:24.859Z",
+    "id": "q244_1785571764864"
+  },
+  {
+    "subject": "Child Development and Pedagogy",
+    "topic": "Inclusive Education",
+    "questionText": "The underlying belief behind 'inclusive education' is",
+    "options": {
+      "1": "segregation of children on the basis of their abilities and provisioning of vocational training accordingly.",
+      "2": "diagnostic labelling of children based on their handicaps for identification of their limitations.",
+      "3": "provisioning of special education institutions for children with different handicaps.",
+      "4": "the philosophy that all children have a right to get equal education in a regular school."
+    },
+    "correctAnswer": "4",
+    "explanation": "Inclusive education advocates that every child has an equal right to study in mainstream, regular classrooms without discrimination.",
+    "difficulty": "Easy",
+    "year_and_paper": "2018 paper2",
+    "source": "PDF Import",
+    "importedAt": "2026-08-01T08:09:24.868Z",
+    "id": "q245_1785571764872"
+  },
+  {
+    "subject": "Child Development and Pedagogy",
+    "topic": "Gifted Learners",
+    "questionText": "Needs of gifted and creative children can be addressed by",
+    "options": {
+      "1": "giving challenging tasks and activities to prevent boredom.",
+      "2": "giving questions that require convergent thinking.",
+      "3": "providing specific instructions to solve problems.",
+      "4": "administrating memory based tests."
+    },
+    "correctAnswer": "1",
+    "explanation": "Gifted learners process information quickly and require higher-order, complex, and challenging tasks to stay engaged.",
+    "difficulty": "Easy",
+    "year_and_paper": "2018 paper2",
+    "source": "PDF Import",
+    "importedAt": "2026-08-01T08:09:24.876Z",
+    "id": "q246_1785571764880"
+  },
+  {
+    "subject": "Child Development and Pedagogy",
+    "topic": "Dyslexia",
+    "questionText": "Children with 'dyslexia' can be identified by",
+    "options": {
+      "1": "finding out their social and cultural context.",
+      "2": "a thorough physical health check-up.",
+      "3": "analyzing their reading and writing skills.",
+      "4": "assessing their ability to solve complex higher-order problems."
+    },
+    "correctAnswer": "3",
+    "explanation": "Dyslexia is a specific learning disability affecting reading accuracy, fluency, and writing skills.",
+    "difficulty": "Easy",
+    "year_and_paper": "2018 paper2",
+    "source": "PDF Import",
+    "importedAt": "2026-08-01T08:09:24.883Z",
+    "id": "q247_1785571764886"
+  },
+  {
+    "subject": "Child Development and Pedagogy",
+    "topic": "Inclusive Education",
+    "questionText": "Which of the following is NOT an effective strategy to address learners from disadvantaged and deprived backgrounds ?",
+    "options": {
+      "1": "Talk to the learners to understand their needs and challenges faced by them.",
+      "2": "Asking the learners to enroll for tuition outside of school so that the teacher does not have to pay much attention to them.",
+      "3": "Motivate the students to set moderately challenging goals and provide appropriate instructional support.",
+      "4": "Form collaborative groups to work on activities and encourage students to support each other."
+    },
+    "correctAnswer": "2",
+    "explanation": "Asking disadvantaged learners to take outside tuition abdicates teacher responsibility and excludes them.",
+    "difficulty": "Easy",
+    "year_and_paper": "2018 paper2",
+    "source": "PDF Import",
+    "importedAt": "2026-08-01T08:09:24.890Z",
+    "id": "q248_1785571764895"
+  },
+  {
+    "subject": "Child Development and Pedagogy",
+    "topic": "Health and Learning",
+    "questionText": "Physical and emotional health of children _________ their learning.",
+    "options": {
+      "1": "does not have any influence on",
+      "2": "plays an important role in",
+      "3": "is not related to",
+      "4": "has an insignificant role in"
+    },
+    "correctAnswer": "2",
+    "explanation": "Physical and emotional wellbeing are deeply interconnected with cognitive processing and effective learning.",
+    "difficulty": "Easy",
+    "year_and_paper": "2018 paper2",
+    "source": "PDF Import",
+    "importedAt": "2026-08-01T08:09:24.898Z",
+    "id": "q249_1785571764903"
+  },
+  {
+    "subject": "Child Development and Pedagogy",
+    "topic": "Meaningful Learning",
+    "questionText": "To promote meaningful learning in the classrooms, a teacher should –\n(i) help students to regulate their own emotions and motivation.\n(ii) categorize and label students according to their performance and make ability-grouping.\n(iii) promote dialogue and discussion among children to build multiple perspectives.\n(iv) ignore diversity in the classroom and follow standard methods of instruction.",
+    "options": {
+      "1": "(i), (iii)",
+      "2": "(ii), (iii)",
+      "3": "(i), (iii), (iv)",
+      "4": "(i), (ii), (iii), (iv)"
+    },
+    "correctAnswer": "1",
+    "explanation": "Self-regulation of emotion/motivation and dialogic interactions foster meaningful learning. Labeling and ignoring diversity harm learning.",
+    "difficulty": "Medium",
+    "year_and_paper": "2018 paper2",
+    "source": "PDF Import",
+    "importedAt": "2026-08-01T08:09:24.907Z",
+    "id": "q250_1785571764912"
+  },
+  {
+    "subject": "Child Development and Pedagogy",
+    "topic": "Nature of Learning",
+    "questionText": "Learning is a _________ and _________ process.",
+    "options": {
+      "1": "complex; active",
+      "2": "simple; linear",
+      "3": "simple; individual",
+      "4": "complex; passive"
+    },
+    "correctAnswer": "1",
+    "explanation": "Learning is a active and complex process involving mental construction and social interaction.",
+    "difficulty": "Easy",
+    "year_and_paper": "2018 paper2",
+    "source": "PDF Import",
+    "importedAt": "2026-08-01T08:09:24.915Z",
+    "id": "q251_1785571764919"
+  },
+  {
+    "subject": "Child Development and Pedagogy",
+    "topic": "Classroom Diversity",
+    "questionText": "A teacher should _________ the social, cultural, religious and linguistic diversity in her classroom to facilitate meaningful learning.",
+    "options": {
+      "1": "dismiss",
+      "2": "ignore",
+      "3": "understand",
+      "4": "neglect"
+    },
+    "correctAnswer": "3",
+    "explanation": "Understanding diverse backgrounds allows teachers to make instruction culturally responsive and meaningful.",
+    "difficulty": "Easy",
+    "year_and_paper": "2018 paper2",
+    "source": "PDF Import",
+    "importedAt": "2026-08-01T08:09:24.923Z",
+    "id": "q252_1785571764926"
+  },
+  {
+    "subject": "Mathematics",
+    "topic": "Decimals and Arithmetic",
+    "questionText": "If 0.139 + 0.75 + 2.105 – (1.001) × 1.1 = 2 – k, then the value of k is",
+    "options": {
+      "1": "0.8925",
+      "2": "0.982",
+      "3": "0.1071",
+      "4": "0.1075"
+    },
+    "correctAnswer": "3",
+    "explanation": "Sum = 0.139 + 0.75 + 2.105 = 2.994. Product = 1.001 × 1.1 = 1.1011. LHS = 2.994 - 1.1011 = 1.8929. 2 - k = 1.8929 => k = 2 - 1.8929 = 0.1071.",
+    "difficulty": "Medium",
+    "year_and_paper": "2018 paper2",
+    "source": "PDF Import",
+    "importedAt": "2026-08-01T08:09:24.931Z",
+    "id": "q253_1785571764933"
+  },
+  {
+    "subject": "Mathematics",
+    "topic": "Rational Numbers",
+    "questionText": "If a = –3/4 and b = 5/6, then which of the following does not lie between a and b ?",
+    "options": {
+      "1": "0",
+      "2": "–1/2",
+      "3": "–2/5",
+      "4": "–7/9"
+    },
+    "correctAnswer": "4",
+    "explanation": "a = -0.75, b = 0.833. Checking options: 0 is in range; -0.5 is in range; -0.4 is in range; -7/9 = -0.777... which is smaller than -0.75, hence lies outside.",
+    "difficulty": "Medium",
+    "year_and_paper": "2018 paper2",
+    "source": "PDF Import",
+    "importedAt": "2026-08-01T08:09:24.936Z",
+    "id": "q254_1785571764939"
+  },
+  {
+    "subject": "Mathematics",
+    "topic": "Exponents and Powers",
+    "questionText": "The product of 1.7 × 10^4 and 12.5 × 10^–6 is expressed in the standard form as k × 10^n. The value of (2k + n) is",
+    "options": {
+      "1": "2.125",
+      "2": "1.125",
+      "3": "2.25",
+      "4": "3.25"
+    },
+    "correctAnswer": "3",
+    "explanation": "Product = 1.7 × 12.5 × 10^(4-6) = 21.25 × 10^-2 = 2.125 × 10^-1. So k = 2.125, n = -1. Value of 2k + n = 2(2.125) - 1 = 4.25 - 1 = 3.25.",
+    "difficulty": "Medium",
+    "year_and_paper": "2018 paper2",
+    "source": "PDF Import",
+    "importedAt": "2026-08-01T08:09:24.941Z",
+    "id": "q255_1785571764946"
+  },
+  {
+    "subject": "Mathematics",
+    "topic": "Ratio and Proportion",
+    "questionText": "Two numbers are in the ratio 3:5. If 12 is added to both the numbers, then the ratio becomes 5:7. The sum of the given two numbers is",
+    "options": {
+      "1": "32",
+      "2": "40",
+      "3": "48",
+      "4": "56"
+    },
+    "correctAnswer": "3",
+    "explanation": "Let numbers be 3x and 5x. (3x+12)/(5x+12) = 5/7 => 21x + 84 = 25x + 60 => 4x = 24 => x = 6. Sum = 3x + 5x = 8x = 8 × 6 = 48.",
+    "difficulty": "Medium",
+    "year_and_paper": "2018 paper2",
+    "source": "PDF Import",
+    "importedAt": "2026-08-01T08:09:24.950Z",
+    "id": "q256_1785571764953"
+  },
+  {
+    "subject": "Science",
+    "topic": "Human Body and Movement",
+    "questionText": "Which of the following represents correct matching set ?\n(a) helps in the movement of body by contraction and relaxation - (i) Cartilage\n(b) Hard structure which forms the skeleton - (ii) Muscles\n(c) Part of skeleton which can be bent - (iii) Rib-cage\n(d) Joins the chest bone and back bone together to form an enclosure - (iv) Bones",
+    "options": {
+      "1": "(a) (i), (b) (iii), (c) (ii), (d) (iv)",
+      "2": "(a) (ii), (b) (iv), (c) (i), (d) (iii)",
+      "3": "(a) (iii), (b) (ii), (c) (i), (d) (iv)",
+      "4": "(a) (iv), (b) (iii), (c) (ii), (d) (i)"
+    },
+    "correctAnswer": "2",
+    "explanation": "Muscles help movement via contraction/relaxation. Bones form hard skeleton structure. Cartilage is flexible skeleton part. Rib-cage encloses chest/backbone.",
+    "difficulty": "Medium",
+    "year_and_paper": "2018 paper2",
+    "source": "PDF Import",
+    "importedAt": "2026-08-01T08:09:24.956Z",
+    "id": "q257_1785571764959"
+  },
+  {
+    "subject": "Science",
+    "topic": "Endocrine System",
+    "questionText": "Which of the following glands in human beings secretes more than two hormones ?",
+    "options": {
+      "1": "Adrenal",
+      "2": "Pituitary",
+      "3": "Pancreas",
+      "4": "Thyroid"
+    },
+    "correctAnswer": "2",
+    "explanation": "The pituitary gland is called the master gland and secretes multiple hormones (GH, TSH, ACTH, LH, FSH, Prolactin, etc.).",
+    "difficulty": "Medium",
+    "year_and_paper": "2018 paper2",
+    "source": "PDF Import",
+    "importedAt": "2026-08-01T08:09:24.962Z",
+    "id": "q258_1785571764965"
+  },
+  {
+    "subject": "Science",
+    "topic": "Materials: Metals and Non-Metals",
+    "questionText": "Which of the following statements is true ?",
+    "options": {
+      "1": "All metals are solids.",
+      "2": "All metals are hard.",
+      "3": "All non-metals are gases.",
+      "4": "All non-metals are non-ductile."
+    },
+    "correctAnswer": "4",
+    "explanation": "Non-metals are brittle or non-ductile (cannot be drawn into wires). Mercury is a liquid metal, sodium/potassium are soft metals, carbon/bromine are solid/liquid non-metals.",
+    "difficulty": "Easy",
+    "year_and_paper": "2018 paper2",
+    "source": "PDF Import",
+    "importedAt": "2026-08-01T08:09:24.969Z",
+    "id": "q259_1785571764973"
+  },
+  {
+    "subject": "Science",
+    "topic": "Synthetic Fibres",
+    "questionText": "'Y' is a man-made fibre obtained from a natural source. What could 'Y' be ?",
+    "options": {
+      "1": "Rayon",
+      "2": "Nylon",
+      "3": "Acrylic",
+      "4": "Jute"
+    },
+    "correctAnswer": "1",
+    "explanation": "Rayon is synthesized chemically from natural wood pulp (cellulose).",
+    "difficulty": "Easy",
+    "year_and_paper": "2018 paper2",
+    "source": "PDF Import",
+    "importedAt": "2026-08-01T08:09:24.978Z",
+    "id": "q260_1785571764982"
+  },
+  {
+    "subject": "Social Science",
+    "topic": "Indian Climate",
+    "questionText": "Consider the statements A, B, C about Autumn season in India and choose the correct answer :\nA. This season is also known as the south-west monsoon season.\nB. Winds blow from the Bay of Bengal and Arabian sea towards the land in this season.\nC. This season is marked by the onset and advance of monsoon.",
+    "options": {
+      "1": "A and B are true, C is false.",
+      "2": "A and C are true, B is false.",
+      "3": "B and C are true, A is false.",
+      "4": "A, B, C all are false."
+    },
+    "correctAnswer": "4",
+    "explanation": "Autumn in India is the season of Retreating Monsoon (winds blow from land to sea). South-West monsoon is the rainy season, not autumn.",
+    "difficulty": "Medium",
+    "year_and_paper": "2018 paper2",
+    "source": "PDF Import",
+    "importedAt": "2026-08-01T08:09:24.987Z",
+    "id": "q261_1785571764993"
+  },
+  {
+    "subject": "Social Science",
+    "topic": "Rivers and Deltas",
+    "questionText": "Which of the following rivers form the 'Sunderban Delta' ?",
+    "options": {
+      "1": "Ganga and Brahmaputra",
+      "2": "Narmada and Tapi",
+      "3": "Mahanadi and Godavari",
+      "4": "Krishna and Kaveri"
+    },
+    "correctAnswer": "1",
+    "explanation": "The Sunderban Delta is formed by the confluence of the Ganga and Brahmaputra rivers in Bengal.",
+    "difficulty": "Easy",
+    "year_and_paper": "2018 paper2",
+    "source": "PDF Import",
+    "importedAt": "2026-08-01T08:09:24.999Z",
+    "id": "q262_1785571765004"
+  },
+  {
+    "subject": "Social Science",
+    "topic": "Atmosphere",
+    "questionText": "Identify the atmospheric layer from the given features A and B :\nA. Meteorites burn up in this layer on entering from the space.\nB. Temperature declines with increasing height in this layer.",
+    "options": {
+      "1": "Troposphere",
+      "2": "Stratosphere",
+      "3": "Mesosphere",
+      "4": "Thermosphere"
+    },
+    "correctAnswer": "3",
+    "explanation": "Meteorites burn up in the Mesosphere, which is the third layer of the atmosphere where temperature decreases with height.",
+    "difficulty": "Easy",
+    "year_and_paper": "2018 paper2",
+    "source": "PDF Import",
+    "importedAt": "2026-08-01T08:09:25.008Z",
+    "id": "q263_1785571765016"
+  },
+  {
+    "subject": "English",
+    "topic": "Language Pedagogy",
+    "questionText": "What are the three components of PPP model of teaching ?",
+    "options": {
+      "1": "Present – Practice – Produce",
+      "2": "Product – Practice – Present",
+      "3": "Pre-teaching – Practice teaching – Produce result",
+      "4": "Pre – conception – Practice by teacher – Post conception"
+    },
+    "correctAnswer": "1",
+    "explanation": "PPP stands for Presentation, Practice, and Production in language teaching methodology.",
+    "difficulty": "Easy",
+    "year_and_paper": "2018 paper2",
+    "source": "PDF Import",
+    "importedAt": "2026-08-01T08:09:25.021Z",
+    "id": "q264_1785571765026"
+  },
+  {
+    "subject": "English",
+    "topic": "Language Pedagogy",
+    "questionText": "India’s language-in-education policy is known as ________.",
+    "options": {
+      "1": "National language formula",
+      "2": "Three language formula",
+      "3": "Language in education",
+      "4": "Official language policy"
+    },
+    "correctAnswer": "2",
+    "explanation": "The Three-Language Formula is India's policy framework for language teaching in schools.",
+    "difficulty": "Easy",
+    "year_and_paper": "2018 paper2",
+    "source": "PDF Import",
+    "importedAt": "2026-08-01T08:09:25.030Z",
+    "id": "q265_1785571765033"
+  },
+  {
+    "subject": "Hindi",
+    "topic": "Language Pedagogy",
+    "questionText": "त्रिभाषा सूत्र के अनुसार स्कूल में पहली भाषा जो पढ़ाई जाए वह ____ हो या ____ भाषा ।",
+    "options": {
+      "1": "मातृभाषा, क्षेत्रीय",
+      "2": "मातृभाषा, हिंदी",
+      "3": "हिंदी, अंग्रेजी",
+      "4": "अंग्रेजी, विदेशी"
+    },
+    "correctAnswer": "1",
+    "explanation": "त्रिभाषा सूत्र के तहत प्राथमिक/शुरुआती स्तर पर पहली भाषा मातृभाषा या क्षेत्रीय भाषा होनी चाहिए।",
+    "difficulty": "Easy",
+    "year_and_paper": "2018 paper2",
+    "source": "PDF Import",
+    "importedAt": "2026-08-01T08:09:25.035Z",
+    "id": "q266_1785571765040"
+  },
+  {
+    "subject": "Hindi",
+    "topic": "Language Pedagogy",
+    "questionText": "व्याकरण पढ़ाने की आगमन विधि _____ पर सर्वाधिक बल देती है ।",
+    "options": {
+      "1": "नियमों",
+      "2": "परिभाषा",
+      "3": "उदाहरणों",
+      "4": "मानकता"
+    },
+    "correctAnswer": "3",
+    "explanation": "आगमन विधि (Inductive Method) में पहले उदाहरण प्रस्तुत किए जाते हैं और फिर नियमों की ओर बढ़ा जाता है।",
+    "difficulty": "Easy",
+    "year_and_paper": "2018 paper2",
+    "source": "PDF Import",
+    "importedAt": "2026-08-01T08:09:25.042Z",
+    "id": "q267_1785571765046"
+  }
+]
