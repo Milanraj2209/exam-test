@@ -108,7 +108,7 @@ export async function POST(request: Request) {
       // Validate schema loosely
       if (!q.questionText && !q.question) continue;
       
-      const newQ = {
+      const newQ: any = {
         subject: q.subject || 'Unknown',
         topic: q.topic || 'General',
         questionText: q.questionText || q.question,
