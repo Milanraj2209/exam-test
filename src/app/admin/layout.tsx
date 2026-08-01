@@ -15,7 +15,7 @@ export default function AdminLayout({
   const [isAuthorized, setIsAuthorized] = useState(false);
 
   // You can change this to any email you want!
-  const ADMIN_EMAIL = process.env.NEXT_PUBLIC_ADMIN_EMAIL || "milanraj2209@gmail.com";
+  const ADMIN_EMAIL = process.env.NEXT_PUBLIC_ADMIN_EMAIL || "milanraj5942@gmail.com";
 
   useEffect(() => {
     if (!loading) {
@@ -49,7 +49,7 @@ export default function AdminLayout({
           <AlertCircle className="h-4 w-4 mr-2" />
           ADMINISTRATOR ACCESS GRANTED
         </div>
-        
+
         {/* Render the admin page */}
         <div className="flex-1">
           {children}
