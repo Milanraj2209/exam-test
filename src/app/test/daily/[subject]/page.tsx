@@ -230,7 +230,7 @@ export default function DailyTestEnvironment() {
                       `}>
                         {key}
                       </div>
-                      <span className={hasAnswered && !isCorrect && !isSelected ? "opacity-50" : ""}>{value}</span>
+                      <span className={hasAnswered && !isCorrect && !isSelected ? "opacity-50" : ""}>{String(value)}</span>
                     </div>
                   );
                 })}

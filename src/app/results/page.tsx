@@ -189,7 +189,7 @@ export default function ResultsPage() {
           </CardHeader>
           <CardContent>
             <div className="space-y-4">
-              {result.topicPerformance.map((topic, i) => {
+              {result.topicPerformance.map((topic: any, i: number) => {
                 const percentage = (parseInt(topic.score.split('/')[0]) / parseInt(topic.score.split('/')[1])) * 100;
                 return (
                   <div key={i}>
